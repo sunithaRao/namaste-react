@@ -5,6 +5,8 @@
   "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "parcel build index.html",
     "test": "jest"
   },
@@ -17,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/sunithaRao/namaste-react/issues"
   },
-  "homepage": "https://github.com/sunithaRao/namaste-react#readme",
+  "homepage": "https://github.com/sunithaRao/namaste-react",
   "devDependencies": {
     "parcel": "^2.12.0",
     "process": "^0.11.10"
