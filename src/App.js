@@ -26,6 +26,7 @@ import RestaurantMenu from "./components/RestaurantMenu";
  *  - Search
  *  - RestaurantContainer
  *    - RestaurantCard
+ *    - Menu for indiviual Restaurant
  * Footer
  *  - Copyright
  *  - Links
