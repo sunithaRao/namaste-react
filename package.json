@@ -5,11 +5,14 @@
   "description": "Its my readme file.no",
   "main": "App.js",
   "scripts": {
-    "start": "parcel index.html",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "start": "parcel ./*.html",
+    "predeploy": "parcel build ./*.html --public-url https://sunitharao.github.com/namaste-react",
+    "deploy": "gh-pages -d dist",
     "build": "parcel build index.html",
     "test": "jest"
+  },
+  "targets": {
+    "main": false
   },
   "repository": {
     "type": "git",
