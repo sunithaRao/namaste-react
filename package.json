@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sunitharao.github.com/namaste-react",
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "Its my readme file.no",
@@ -19,8 +20,8 @@
   "bugs": {
     "url": "https://github.com/sunithaRao/namaste-react/issues"
   },
-  "homepage": "https://github.com/sunithaRao/namaste-react",
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "parcel": "^2.12.0",
     "process": "^0.11.10"
   },
