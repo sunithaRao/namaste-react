@@ -6,7 +6,7 @@
   "main": "App.js",
   "scripts": {
     "start": "parcel ./*.html",
-    "predeploy": "parcel build ./*.html --public-url https://sunitharao.github.com/namaste-react",
+    "predeploy": "parcel build ./*.html --public-url ./",
     "deploy": "gh-pages -d dist",
     "build": "parcel build index.html",
     "test": "jest"
