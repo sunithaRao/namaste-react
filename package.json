@@ -3,7 +3,6 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "Its my readme file.no",
-  "main": "App.js",
   "scripts": {
     "start": "parcel ./*.html",
     "predeploy": "parcel build ./*.html --public-url ./",
