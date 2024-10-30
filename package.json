@@ -4,11 +4,14 @@
   "version": "1.0.0",
   "description": "Its my readme file.no",
   "scripts": {
-    "start": "parcel index.html",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "start": "parcel ./*.html",
+    "predeploy": "parcel build ./*.html --public-url ./",
+    "deploy": "gh-pages -d dist",
     "build": "parcel build index.html",
     "test": "jest"
+  },
+  "targets": {
+    "main": false
   },
   "repository": {
     "type": "git",
