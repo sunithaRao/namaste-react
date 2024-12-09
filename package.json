@@ -1,6 +1,7 @@
 {
   "homepage": "https://sunithaRao.github.io/namaste-react",
   "name": "namaste-react",
+  "private": false,
   "version": "1.0.0",
   "description": "Its my readme file.no",
   "scripts": {
