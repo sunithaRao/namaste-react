@@ -7,7 +7,6 @@ import ContactUs from "./components/ContactUs";
 import Error from "./components/Error";
 import RestaurantMenu from "./components/RestaurantMenu";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
-import RestaurantMenu from "./components/RestaurantMenu";
 import { lazy, Suspense } from "react";
 
 //import Grocery from "./components/Grocery";
