@@ -1,11 +1,11 @@
 {
-  "homepage": "https://sunitharao.github.io/namaste-react",
+  "homepage": "https://sunithaRao.github.io/namaste-react",
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "Its my readme file.no",
   "scripts": {
     "start": "parcel ./*.html",
-    "predeploy": "parcel build ./*.html --public-url ./",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build": "parcel build index.html",
     "test": "jest"
