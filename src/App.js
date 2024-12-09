@@ -38,11 +38,12 @@ const AppLayout = () => {
 
 const appRouter = createBrowserRouter([
   {
-    path: "/",
+    path: "/namaste-react",
+    basename: "/namaste-react",
     element: <AppLayout />,
     children: [
       {
-        path: "/",
+        path: "/namaste-react",
         element: <Body />,
       },
       {
