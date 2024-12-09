@@ -47,7 +47,7 @@ const appRouter = createBrowserRouter([
         element: <Body />,
       },
       {
-        path: "/about",
+        path: "/namaste-react/about",
         element: (
           <Suspense fallback={<h1>Loading....</h1>}>
             <About />
@@ -55,15 +55,15 @@ const appRouter = createBrowserRouter([
         ),
       },
       {
-        path: "/contact",
+        path: "/namaste-react/contact",
         element: <ContactUs />,
       },
       {
-        path: "/restaurant/:resId",
+        path: "/namaste-react/restaurant/:resId",
         element: <RestaurantMenu />,
       },
       {
-        path: "/grocery",
+        path: "/namaste-react/grocery",
         element: (
           <Suspense fallback={<h1>Loading....</h1>}>
             <Grocery />

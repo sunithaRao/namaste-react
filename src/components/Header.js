@@ -23,19 +23,19 @@ const Header = () => {
             Online Status: ({onlineStatus ? "GREEN" : "RED"})
           </li>
           <li className="px-4">
-            <Link to="/">Home</Link>
+            <Link to="/namaste-react">Home</Link>
           </li>
           <li className="px-4">
-            <Link to="/about">About Us</Link>
+            <Link to="/namaste-react/about">About Us</Link>
           </li>
           <li className="px-4">
-            <Link to="/contact">Contact Us</Link>
+            <Link to="/namaste-react/contact">Contact Us</Link>
           </li>
           <li className="px-4">
-            <Link to="/grocery">Grocery</Link>
+            <Link to="/namaste-react/grocery">Grocery</Link>
           </li>
           <li className="px-4">
-            <Link to="/cart">Cart</Link>
+            <Link to="/namaste-react/cart">Cart</Link>
           </li>
           <li className="px-4">
             <button
