@@ -95,7 +95,7 @@ const Body = () => {
         {filteredRestaurants.map((restaurant) => (
           <Link
             key={restaurant.info.id}
-            to={"/restaurant/" + restaurant.info.id}
+            to={"/namaste-react/restaurant/" + restaurant.info.id}
           >
             <RestaurantCard resData={restaurant} />
           </Link>
