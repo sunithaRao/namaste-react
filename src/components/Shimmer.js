@@ -1,70 +1,14 @@
+import { ShimmerDesign } from "./ShimmerDesign";
+
 const Shimmer = () => {
   return (
-    <div className="shimmer-container">
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="card-img"></div>
-        <div className="card-details"></div>
-      </div>
+    <div className="flex flex-wrap p-4 m-4">
+      <ShimmerDesign />
+      <ShimmerDesign />
+      <ShimmerDesign />
+      <ShimmerDesign />
+      <ShimmerDesign />
+      <ShimmerDesign />
     </div>
   );
 };

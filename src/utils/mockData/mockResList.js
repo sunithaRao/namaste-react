@@ -3,7 +3,7 @@ export const mockResList = {
   data: {
     statusMessage: "done successfully",
     pageOffset: {
-      nextOffset: "CJhlELQ4KIDAvejr4uX2CTCnEzgB",
+      nextOffset: "CJhlELQ4KIDIv/zErcLkJTCnEzgC",
       widgetOffset: {
         NewListingView_category_bar_chicletranking_TwoRows: "",
         NewListingView_category_bar_chicletranking_TwoRows_Rendition: "",
@@ -75,242 +75,40 @@ export const mockResList = {
                   externalMarketing: {},
                 },
                 {
-                  id: "750131",
+                  id: "750579",
                   imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Dosa.png",
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pizzas.png",
                   action: {
-                    link: "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
-                    text: "Dosa",
+                    link: "https://www.swiggy.com/collections/83631?collection_id=83631&search_context=pizza&tags=layout_CCS_Pizza&type=rcv2",
+                    text: "Pizzas",
                     type: "WEBLINK",
                   },
                   entityType: "BANNER",
                   accessibility: {
-                    altText: "restaurants curated for dosa",
+                    altText: "restaurants curated for pizza",
                     altTextCta: "open",
                   },
                   entityId:
-                    "swiggy://collectionV2?collection_id=80424&tags=layout_CCS_Dosa",
+                    "swiggy://collectionV2?collection_id=83631&tags=layout_CCS_Pizza&search_context=pizza",
                   frequencyCapping: {},
                   externalMarketing: {},
                 },
                 {
-                  id: "750643",
+                  id: "750589",
                   imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Idli.png",
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_burger.png",
                   action: {
-                    link: "https://www.swiggy.com/collections/80440?collection_id=80440&tags=layout_CCS_Idli&type=rcv2",
-                    text: "Idli",
+                    link: "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
+                    text: "Burgers",
                     type: "WEBLINK",
                   },
                   entityType: "BANNER",
                   accessibility: {
-                    altText: "restaurants curated for idly",
+                    altText: "restaurants curated for burger",
                     altTextCta: "open",
                   },
                   entityId:
-                    "swiggy://collectionV2?collection_id=80440&tags=layout_CCS_Idli",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750234",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Poori.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80377?collection_id=80377&tags=layout_BAU_Contextual%2Cpoori&type=rcv2",
-                    text: "Poori",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurant curated for poori",
-                    altTextCta: "open",
-                  },
-                  entityId: "80377",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750561",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Vada.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
-                    text: "Vada",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurants curated for vada",
-                    altTextCta: "open",
-                  },
-                  entityId: "80425",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "749868",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/83655?collection_id=83655&tags=layout_CCS_Cake&type=rcv2",
-                    text: "Cakes",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurant curated for cake",
-                    altTextCta: "open",
-                  },
-                  entityId:
-                    "swiggy://collectionV2?collection_id=83655&tags=layout_CCS_Cake",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "749862",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_bonda.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80363?collection_id=80363&tags=layout_BAU_Contextual%2Cbonda%2Clayout_ux4&type=rcv2",
-                    text: "Bonda",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurant curated for bonda",
-                    altTextCta: "open",
-                  },
-                  entityId: "80363",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750229",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Poha.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80373?collection_id=80373&tags=layout_CCS_Poha&type=rcv2",
-                    text: "Poha",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurants curated for poha",
-                    altTextCta: "open",
-                  },
-                  entityId:
-                    "swiggy://collectionV2?collection_id=80373&tags=layout_CCS_Poha",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "749816",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Bath.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80354?collection_id=80354&tags=layout_BAU_Contextual%2Cbath%2Clayout_ux4&type=rcv2",
-                    text: "Bath",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurant curated for bath",
-                    altTextCta: "open",
-                  },
-                  entityId: "80354",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750571",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pure Veg.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80435?collection_id=80435&tags=layout_CCS_PureVeg&type=rcv2",
-                    text: "Pure Veg",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurants curated for veg",
-                    altTextCta: "open",
-                  },
-                  entityId:
-                    "swiggy://collectionV2?collection_id=80435&tags=layout_CCS_PureVeg",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750232",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pongal.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80375?collection_id=80375&tags=layout_BAU_Contextual%2Cpongal&type=rcv2",
-                    text: "Pongal",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurants curated for pongal",
-                    altTextCta: "open",
-                  },
-                  entityId: "80375",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750219",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/3f2c40d3-96c7-44ce-8b35-aef6ea746cdc_pesarattu.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80366?collection_id=80366&tags=layout_BAU_Contextual%2Cpesarattu&type=rcv2",
-                    text: "Pesarattu",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurants curated for pesarattu",
-                    altTextCta: "open",
-                  },
-                  entityId: "80366",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750201",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_CCS_Paratha&type=rcv2",
-                    text: "Paratha",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurants curated for paratha",
-                    altTextCta: "open",
-                  },
-                  entityId:
-                    "swiggy://collectionV2?collection_id=80475&tags=layout_CCS_Paratha",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750228",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_samosa.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80396?collection_id=80396&tags=layout_BAU_Contextual%2Csamosa&type=rcv2",
-                    text: "Samosa",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurants curated for samosa",
-                    altTextCta: "open",
-                  },
-                  entityId: "80396",
+                    "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger&search_context=burger",
                   frequencyCapping: {},
                   externalMarketing: {},
                 },
@@ -334,94 +132,301 @@ export const mockResList = {
                   externalMarketing: {},
                 },
                 {
-                  id: "750079",
+                  id: "750585",
                   imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cutlet.png",
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
                   action: {
-                    link: "https://www.swiggy.com/collections/80414?collection_id=80414&tags=layout_BAU_Contextual%2Ccutlet&type=rcv2",
-                    text: "Cutlet",
+                    link: "https://www.swiggy.com/collections/83634?collection_id=83634&search_context=southindian&tags=layout_CCS_SouthIndian&type=rcv2",
+                    text: "South Indian",
                     type: "WEBLINK",
                   },
                   entityType: "BANNER",
                   accessibility: {
-                    altText: "restaurant curated for cutlet",
-                    altTextCta: "open",
-                  },
-                  entityId: "80414",
-                  frequencyCapping: {},
-                  externalMarketing: {},
-                },
-                {
-                  id: "750554",
-                  imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Uttapam.png",
-                  action: {
-                    link: "https://www.swiggy.com/collections/80415?collection_id=80415&tags=layout_CCS_Uthappam&type=rcv2",
-                    text: "Uthappam",
-                    type: "WEBLINK",
-                  },
-                  entityType: "BANNER",
-                  accessibility: {
-                    altText: "restaurant curated for uttappam",
+                    altText: "restaurants curated for south indian",
                     altTextCta: "open",
                   },
                   entityId:
-                    "swiggy://collectionV2?collection_id=80415&tags=layout_CCS_Uthappam",
+                    "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_SouthIndian&search_context=southindian",
                   frequencyCapping: {},
                   externalMarketing: {},
                 },
                 {
-                  id: "750252",
+                  id: "750581",
                   imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/cb5669c8-d6f1-46ab-b24d-3da99b9fa32c_tea.png",
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
                   action: {
-                    link: "https://www.swiggy.com/collections/80406?collection_id=80406&tags=layout_CCS_Tea&type=rcv2",
-                    text: "Tea",
+                    link: "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
+                    text: "North Indian",
                     type: "WEBLINK",
                   },
                   entityType: "BANNER",
                   accessibility: {
-                    altText: "restaurants curated for tea",
+                    altText: "restaurants curated for north indian",
                     altTextCta: "open",
                   },
                   entityId:
-                    "swiggy://collectionV2?collection_id=80406&tags=layout_CCS_Tea",
+                    "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
                   frequencyCapping: {},
                   externalMarketing: {},
                 },
                 {
-                  id: "750639",
+                  id: "750571",
                   imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Kachori.png",
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pure Veg.png",
                   action: {
-                    link: "https://www.swiggy.com/collections/80448?collection_id=80448&tags=layout_BAU_Contextual%2Ckachori&type=rcv2",
-                    text: "Kachori",
+                    link: "https://www.swiggy.com/collections/80435?collection_id=80435&tags=layout_CCS_PureVeg&type=rcv2",
+                    text: "Pure Veg",
                     type: "WEBLINK",
                   },
                   entityType: "BANNER",
                   accessibility: {
-                    altText: "restaurant curated for kachori",
+                    altText: "restaurants curated for veg",
                     altTextCta: "open",
                   },
-                  entityId: "80448",
+                  entityId:
+                    "swiggy://collectionV2?collection_id=80435&tags=layout_CCS_PureVeg",
                   frequencyCapping: {},
                   externalMarketing: {},
                 },
                 {
-                  id: "749786",
+                  id: "750587",
                   imageId:
-                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Omelette.png",
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Chinese.png",
                   action: {
-                    link: "https://www.swiggy.com/collections/80467?collection_id=80467&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
-                    text: "Omelette",
+                    link: "https://www.swiggy.com/collections/83636?collection_id=83636&tags=layout_CCS_Chinese&type=rcv2",
+                    text: "Chinese",
                     type: "WEBLINK",
                   },
                   entityType: "BANNER",
                   accessibility: {
-                    altText: "restaurant curated for omelette",
+                    altText: "restaurant curated for chinese",
                     altTextCta: "open",
                   },
-                  entityId: "80467",
+                  entityId:
+                    "swiggy://collectionV2?collection_id=83636&tags=layout_CCS_Chinese",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750596",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate icecream.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/83640?collection_id=83640&tags=layout_CCS_IceCreams&type=rcv2",
+                    text: "Ice Cream",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurants curated for icecream",
+                    altTextCta: "open",
+                  },
+                  entityId:
+                    "swiggy://collectionV2?collection_id=83640&tags=layout_CCS_IceCreams",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750208",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pastry.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80355?collection_id=80355&tags=layout_CCS_Pastry&type=rcv2",
+                    text: "Pastry",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for Pastry",
+                    altTextCta: "open",
+                  },
+                  entityId:
+                    "swiggy://collectionV2?collection_id=80355&tags=layout_CCS_Pastry",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750222",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/17/58760e8e-324f-479e-88fa-31800120ea38_Rolls1.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+                    text: "Rolls",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurants curated for roll",
+                    altTextCta: "open",
+                  },
+                  entityId:
+                    "swiggy://collectionV2?collection_id=83669&tags=layout_CCS_Rolls",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750260",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Rasmalai.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80390?collection_id=80390&tags=layout_BAU_Contextual%2Crasmalai&type=rcv2",
+                    text: "Rasmalai",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for rasmalai",
+                    altTextCta: "open",
+                  },
+                  entityId: "80390",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750635",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Kebabs.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80451?collection_id=80451&tags=layout_CCS_Kebabs&type=rcv2",
+                    text: "Kebabs",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for kebabs",
+                    altTextCta: "open",
+                  },
+                  entityId:
+                    "swiggy://collectionV2?collection_id=80451&tags=layout_CCS_Kebabs",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "749868",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/83655?collection_id=83655&tags=layout_CCS_Cake&type=rcv2",
+                    text: "Cakes",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for cake",
+                    altTextCta: "open",
+                  },
+                  entityId:
+                    "swiggy://collectionV2?collection_id=83655&tags=layout_CCS_Cake",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750586",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Gulab jamun.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80430?collection_id=80430&tags=layout_BAU_Contextual%2Cgulab_jamun&type=rcv2",
+                    text: "Gulab Jamun",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for gulab jamun",
+                    altTextCta: "open",
+                  },
+                  entityId: "80430",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "749772",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80463?collection_id=80463&tags=layout_BAU_Contextual%2Cnoodles&type=rcv2",
+                    text: "Noodles",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for noodles",
+                    altTextCta: "open",
+                  },
+                  entityId: "80463",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750204",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Parotta.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80477?collection_id=80477&tags=layout_BAU_Contextual%2Cparotta&type=rcv2",
+                    text: "Parotta",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for parotta",
+                    altTextCta: "open",
+                  },
+                  entityId: "80477",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750248",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_shawarma.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80402?collection_id=80402&tags=layout_Shawarma_Contextual&type=rcv2",
+                    text: "Shawarma",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for shawarma",
+                    altTextCta: "open",
+                  },
+                  entityId:
+                    "swiggy://collectionV2?collection_id=80402&tags=layout_Shawarma_Contextual",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "749816",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Bath.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80354?collection_id=80354&tags=layout_BAU_Contextual%2Cbath%2Clayout_ux4&type=rcv2",
+                    text: "Bath",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurant curated for bath",
+                    altTextCta: "open",
+                  },
+                  entityId: "80354",
+                  frequencyCapping: {},
+                  externalMarketing: {},
+                },
+                {
+                  id: "750131",
+                  imageId:
+                    "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Dosa.png",
+                  action: {
+                    link: "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
+                    text: "Dosa",
+                    type: "WEBLINK",
+                  },
+                  entityType: "BANNER",
+                  accessibility: {
+                    altText: "restaurants curated for dosa",
+                    altTextCta: "open",
+                  },
+                  entityId:
+                    "swiggy://collectionV2?collection_id=80424&tags=layout_CCS_Dosa",
                   frequencyCapping: {},
                   externalMarketing: {},
                 },
@@ -465,242 +470,40 @@ export const mockResList = {
                     externalMarketing: {},
                   },
                   {
-                    id: "750131",
+                    id: "750579",
                     imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Dosa.png",
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pizzas.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
-                      text: "Dosa",
+                      link: "https://www.swiggy.com/collections/83631?collection_id=83631&search_context=pizza&tags=layout_CCS_Pizza&type=rcv2",
+                      text: "Pizzas",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurants curated for dosa",
+                      altText: "restaurants curated for pizza",
                       altTextCta: "open",
                     },
                     entityId:
-                      "swiggy://collectionV2?collection_id=80424&tags=layout_CCS_Dosa",
+                      "swiggy://collectionV2?collection_id=83631&tags=layout_CCS_Pizza&search_context=pizza",
                     frequencyCapping: {},
                     externalMarketing: {},
                   },
                   {
-                    id: "750643",
+                    id: "750589",
                     imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Idli.png",
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_burger.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80440?collection_id=80440&tags=layout_CCS_Idli&type=rcv2",
-                      text: "Idli",
+                      link: "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
+                      text: "Burgers",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurants curated for idly",
+                      altText: "restaurants curated for burger",
                       altTextCta: "open",
                     },
                     entityId:
-                      "swiggy://collectionV2?collection_id=80440&tags=layout_CCS_Idli",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750234",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Poori.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80377?collection_id=80377&tags=layout_BAU_Contextual%2Cpoori&type=rcv2",
-                      text: "Poori",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for poori",
-                      altTextCta: "open",
-                    },
-                    entityId: "80377",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750561",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Vada.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
-                      text: "Vada",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurants curated for vada",
-                      altTextCta: "open",
-                    },
-                    entityId: "80425",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "749868",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/83655?collection_id=83655&tags=layout_CCS_Cake&type=rcv2",
-                      text: "Cakes",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for cake",
-                      altTextCta: "open",
-                    },
-                    entityId:
-                      "swiggy://collectionV2?collection_id=83655&tags=layout_CCS_Cake",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "749862",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_bonda.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80363?collection_id=80363&tags=layout_BAU_Contextual%2Cbonda%2Clayout_ux4&type=rcv2",
-                      text: "Bonda",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for bonda",
-                      altTextCta: "open",
-                    },
-                    entityId: "80363",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750229",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Poha.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80373?collection_id=80373&tags=layout_CCS_Poha&type=rcv2",
-                      text: "Poha",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurants curated for poha",
-                      altTextCta: "open",
-                    },
-                    entityId:
-                      "swiggy://collectionV2?collection_id=80373&tags=layout_CCS_Poha",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "749816",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Bath.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80354?collection_id=80354&tags=layout_BAU_Contextual%2Cbath%2Clayout_ux4&type=rcv2",
-                      text: "Bath",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for bath",
-                      altTextCta: "open",
-                    },
-                    entityId: "80354",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750571",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pure Veg.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80435?collection_id=80435&tags=layout_CCS_PureVeg&type=rcv2",
-                      text: "Pure Veg",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurants curated for veg",
-                      altTextCta: "open",
-                    },
-                    entityId:
-                      "swiggy://collectionV2?collection_id=80435&tags=layout_CCS_PureVeg",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750232",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pongal.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80375?collection_id=80375&tags=layout_BAU_Contextual%2Cpongal&type=rcv2",
-                      text: "Pongal",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurants curated for pongal",
-                      altTextCta: "open",
-                    },
-                    entityId: "80375",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750219",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/3f2c40d3-96c7-44ce-8b35-aef6ea746cdc_pesarattu.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80366?collection_id=80366&tags=layout_BAU_Contextual%2Cpesarattu&type=rcv2",
-                      text: "Pesarattu",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurants curated for pesarattu",
-                      altTextCta: "open",
-                    },
-                    entityId: "80366",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750201",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_CCS_Paratha&type=rcv2",
-                      text: "Paratha",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurants curated for paratha",
-                      altTextCta: "open",
-                    },
-                    entityId:
-                      "swiggy://collectionV2?collection_id=80475&tags=layout_CCS_Paratha",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750228",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_samosa.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80396?collection_id=80396&tags=layout_BAU_Contextual%2Csamosa&type=rcv2",
-                      text: "Samosa",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurants curated for samosa",
-                      altTextCta: "open",
-                    },
-                    entityId: "80396",
+                      "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger&search_context=burger",
                     frequencyCapping: {},
                     externalMarketing: {},
                   },
@@ -724,94 +527,301 @@ export const mockResList = {
                     externalMarketing: {},
                   },
                   {
-                    id: "750079",
+                    id: "750585",
                     imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cutlet.png",
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80414?collection_id=80414&tags=layout_BAU_Contextual%2Ccutlet&type=rcv2",
-                      text: "Cutlet",
+                      link: "https://www.swiggy.com/collections/83634?collection_id=83634&search_context=southindian&tags=layout_CCS_SouthIndian&type=rcv2",
+                      text: "South Indian",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurant curated for cutlet",
-                      altTextCta: "open",
-                    },
-                    entityId: "80414",
-                    frequencyCapping: {},
-                    externalMarketing: {},
-                  },
-                  {
-                    id: "750554",
-                    imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Uttapam.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80415?collection_id=80415&tags=layout_CCS_Uthappam&type=rcv2",
-                      text: "Uthappam",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for uttappam",
+                      altText: "restaurants curated for south indian",
                       altTextCta: "open",
                     },
                     entityId:
-                      "swiggy://collectionV2?collection_id=80415&tags=layout_CCS_Uthappam",
+                      "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_SouthIndian&search_context=southindian",
                     frequencyCapping: {},
                     externalMarketing: {},
                   },
                   {
-                    id: "750252",
+                    id: "750581",
                     imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/cb5669c8-d6f1-46ab-b24d-3da99b9fa32c_tea.png",
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80406?collection_id=80406&tags=layout_CCS_Tea&type=rcv2",
-                      text: "Tea",
+                      link: "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
+                      text: "North Indian",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurants curated for tea",
+                      altText: "restaurants curated for north indian",
                       altTextCta: "open",
                     },
                     entityId:
-                      "swiggy://collectionV2?collection_id=80406&tags=layout_CCS_Tea",
+                      "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
                     frequencyCapping: {},
                     externalMarketing: {},
                   },
                   {
-                    id: "750639",
+                    id: "750571",
                     imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Kachori.png",
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pure Veg.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80448?collection_id=80448&tags=layout_BAU_Contextual%2Ckachori&type=rcv2",
-                      text: "Kachori",
+                      link: "https://www.swiggy.com/collections/80435?collection_id=80435&tags=layout_CCS_PureVeg&type=rcv2",
+                      text: "Pure Veg",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurant curated for kachori",
+                      altText: "restaurants curated for veg",
                       altTextCta: "open",
                     },
-                    entityId: "80448",
+                    entityId:
+                      "swiggy://collectionV2?collection_id=80435&tags=layout_CCS_PureVeg",
                     frequencyCapping: {},
                     externalMarketing: {},
                   },
                   {
-                    id: "749786",
+                    id: "750587",
                     imageId:
-                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Omelette.png",
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Chinese.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80467?collection_id=80467&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
-                      text: "Omelette",
+                      link: "https://www.swiggy.com/collections/83636?collection_id=83636&tags=layout_CCS_Chinese&type=rcv2",
+                      text: "Chinese",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurant curated for omelette",
+                      altText: "restaurant curated for chinese",
                       altTextCta: "open",
                     },
-                    entityId: "80467",
+                    entityId:
+                      "swiggy://collectionV2?collection_id=83636&tags=layout_CCS_Chinese",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750596",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate icecream.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/83640?collection_id=83640&tags=layout_CCS_IceCreams&type=rcv2",
+                      text: "Ice Cream",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurants curated for icecream",
+                      altTextCta: "open",
+                    },
+                    entityId:
+                      "swiggy://collectionV2?collection_id=83640&tags=layout_CCS_IceCreams",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750208",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pastry.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80355?collection_id=80355&tags=layout_CCS_Pastry&type=rcv2",
+                      text: "Pastry",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for Pastry",
+                      altTextCta: "open",
+                    },
+                    entityId:
+                      "swiggy://collectionV2?collection_id=80355&tags=layout_CCS_Pastry",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750222",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/17/58760e8e-324f-479e-88fa-31800120ea38_Rolls1.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+                      text: "Rolls",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurants curated for roll",
+                      altTextCta: "open",
+                    },
+                    entityId:
+                      "swiggy://collectionV2?collection_id=83669&tags=layout_CCS_Rolls",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750260",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Rasmalai.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80390?collection_id=80390&tags=layout_BAU_Contextual%2Crasmalai&type=rcv2",
+                      text: "Rasmalai",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for rasmalai",
+                      altTextCta: "open",
+                    },
+                    entityId: "80390",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750635",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Kebabs.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80451?collection_id=80451&tags=layout_CCS_Kebabs&type=rcv2",
+                      text: "Kebabs",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for kebabs",
+                      altTextCta: "open",
+                    },
+                    entityId:
+                      "swiggy://collectionV2?collection_id=80451&tags=layout_CCS_Kebabs",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "749868",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/83655?collection_id=83655&tags=layout_CCS_Cake&type=rcv2",
+                      text: "Cakes",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for cake",
+                      altTextCta: "open",
+                    },
+                    entityId:
+                      "swiggy://collectionV2?collection_id=83655&tags=layout_CCS_Cake",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750586",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Gulab jamun.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80430?collection_id=80430&tags=layout_BAU_Contextual%2Cgulab_jamun&type=rcv2",
+                      text: "Gulab Jamun",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for gulab jamun",
+                      altTextCta: "open",
+                    },
+                    entityId: "80430",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "749772",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80463?collection_id=80463&tags=layout_BAU_Contextual%2Cnoodles&type=rcv2",
+                      text: "Noodles",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for noodles",
+                      altTextCta: "open",
+                    },
+                    entityId: "80463",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750204",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Parotta.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80477?collection_id=80477&tags=layout_BAU_Contextual%2Cparotta&type=rcv2",
+                      text: "Parotta",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for parotta",
+                      altTextCta: "open",
+                    },
+                    entityId: "80477",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750248",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_shawarma.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80402?collection_id=80402&tags=layout_Shawarma_Contextual&type=rcv2",
+                      text: "Shawarma",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for shawarma",
+                      altTextCta: "open",
+                    },
+                    entityId:
+                      "swiggy://collectionV2?collection_id=80402&tags=layout_Shawarma_Contextual",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "749816",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Bath.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80354?collection_id=80354&tags=layout_BAU_Contextual%2Cbath%2Clayout_ux4&type=rcv2",
+                      text: "Bath",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for bath",
+                      altTextCta: "open",
+                    },
+                    entityId: "80354",
+                    frequencyCapping: {},
+                    externalMarketing: {},
+                  },
+                  {
+                    id: "750131",
+                    imageId:
+                      "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Dosa.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
+                      text: "Dosa",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurants curated for dosa",
+                      altTextCta: "open",
+                    },
+                    entityId:
+                      "swiggy://collectionV2?collection_id=80424&tags=layout_CCS_Dosa",
                     frequencyCapping: {},
                     externalMarketing: {},
                   },
@@ -892,10 +902,96 @@ export const mockResList = {
                 restaurants: [
                   {
                     info: {
+                      id: "334228",
+                      name: "Pizza Hut",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/19cab596-cc4c-46bb-93a9-0fbdcf60799e_334228.jpg",
+                      locality: "Gajuwaka",
+                      areaName: "Gajuwaka",
+                      costForTwo: "₹350 for two",
+                      cuisines: ["Pizzas"],
+                      avgRating: 4.3,
+                      parentId: "721",
+                      avgRatingString: "4.3",
+                      totalRatingsString: "8.1K+",
+                      sla: {
+                        deliveryTime: 30,
+                        lastMileTravel: 3,
+                        serviceability: "SERVICEABLE",
+                        slaString: "25-30 mins",
+                        lastMileTravelString: "3.0 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "Rxawards/_CATEGORY-Pizza.png",
+                            description: "Delivery!",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "Delivery!",
+                                  imageId: "Rxawards/_CATEGORY-Pizza.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "50% OFF",
+                        subHeader: "UPTO ₹90",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "4.3",
+                          ratingCount: "993",
+                        },
+                        source: "GOOGLE",
+                        sourceIconImageId:
+                          "v1704440323/google_ratings/rating_google_tag",
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/pizza-hut-gajuwaka-rest334228",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
                       id: "321242",
                       name: "Subway",
                       cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/25/bef38094-6e45-40b9-9317-2bbe04861c84_321242.jpg",
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/fdbbe888-f309-40a9-9c29-6acf80cdd824_321242.JPG",
                       locality: "Gajuwaka",
                       areaName: "Chaitanya Nagar",
                       costForTwo: "₹300 for two",
@@ -911,15 +1007,15 @@ export const mockResList = {
                       avgRatingString: "4.3",
                       totalRatingsString: "3.7K+",
                       sla: {
-                        deliveryTime: 30,
+                        deliveryTime: 19,
                         lastMileTravel: 3.6,
                         serviceability: "SERVICEABLE",
-                        slaString: "25-30 mins",
+                        slaString: "15-20 mins",
                         lastMileTravelString: "3.6 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
+                        nextCloseTime: "2024-12-10 23:59:00",
                         opened: true,
                       },
                       badges: {
@@ -970,10 +1066,910 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
                       link: "https://www.swiggy.com/city/vizag/subway-gajuwaka-chaitanya-nagar-rest321242",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "429771",
+                      name: "Burger King",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/cab874d5-c7ed-4122-9eb9-935992f4bcee_429771.JPG",
+                      locality: "Exhibition Road",
+                      areaName: "Gajuwaka",
+                      costForTwo: "₹350 for two",
+                      cuisines: ["Burgers", "American"],
+                      avgRating: 4.4,
+                      parentId: "166",
+                      avgRatingString: "4.4",
+                      totalRatingsString: "15K+",
+                      sla: {
+                        deliveryTime: 19,
+                        lastMileTravel: 3,
+                        serviceability: "SERVICEABLE",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "3.0 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "Rxawards/_CATEGORY-Burger.png",
+                            description: "Delivery!",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "Delivery!",
+                                  imageId: "Rxawards/_CATEGORY-Burger.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "60% OFF",
+                        subHeader: "UPTO ₹120",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "4.6",
+                          ratingCount: "2.0K+",
+                        },
+                        source: "GOOGLE",
+                        sourceIconImageId:
+                          "v1704440323/google_ratings/rating_google_tag",
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/burger-king-exhibition-road-gajuwaka-rest429771",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "790281",
+                      name: "KFC",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/31534886-98db-43a2-a6c3-3eed40fd4ff7_790281.JPG",
+                      locality: "Gajuwaka",
+                      areaName: "Vizag",
+                      costForTwo: "₹400 for two",
+                      cuisines: ["Burgers", "Fast Food", "Rolls & Wraps"],
+                      avgRating: 4.3,
+                      parentId: "547",
+                      avgRatingString: "4.3",
+                      totalRatingsString: "2.4K+",
+                      sla: {
+                        deliveryTime: 19,
+                        lastMileTravel: 1.3,
+                        serviceability: "SERVICEABLE",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "1.3 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:00:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "Rxawards/_CATEGORY-Burger.png",
+                            description: "Delivery!",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "Delivery!",
+                                  imageId: "Rxawards/_CATEGORY-Burger.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "10% OFF",
+                        subHeader: "UPTO ₹40",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/kfc-gajuwaka-vizag-rest790281",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "67800",
+                      name: "Bunnys Family Restaurant",
+                      cloudinaryImageId: "dxknlfkvtfmx94f2cwxi",
+                      locality: "Kurmannapalem",
+                      areaName: "Kurmannapalem",
+                      costForTwo: "₹300 for two",
+                      cuisines: ["Biryani", "Andhra", "Chinese"],
+                      avgRating: 4.2,
+                      parentId: "576571",
+                      avgRatingString: "4.2",
+                      totalRatingsString: "140K+",
+                      sla: {
+                        deliveryTime: 27,
+                        lastMileTravel: 6.2,
+                        serviceability: "SERVICEABLE",
+                        slaString: "25-30 mins",
+                        lastMileTravelString: "6.2 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {},
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {},
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "₹125 OFF",
+                        subHeader: "ABOVE ₹299",
+                        discountTag: "FLAT DEAL",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "3.5",
+                          ratingCount: "1.2K+",
+                        },
+                        source: "GOOGLE",
+                        sourceIconImageId:
+                          "v1704440323/google_ratings/rating_google_tag",
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/bunnys-family-restaurant-kurmannapalem-rest67800",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "858815",
+                      name: "McDonald's Gourmet Burger Collection",
+                      cloudinaryImageId: "e233fb34d70482545b018b5b169fe18e",
+                      locality: "Celest Mall",
+                      areaName: "GAJUWAKA",
+                      costForTwo: "₹400 for two",
+                      cuisines: ["Burgers", "Beverages", "Cafe", "Desserts"],
+                      avgRating: 4.3,
+                      parentId: "10761",
+                      avgRatingString: "4.3",
+                      totalRatingsString: "35",
+                      sla: {
+                        deliveryTime: 22,
+                        lastMileTravel: 2.8,
+                        serviceability: "SERVICEABLE",
+                        slaString: "20-25 mins",
+                        lastMileTravelString: "2.8 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {},
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {},
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {},
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/mcdonalds-gourmet-burger-collection-celest-mall-gajuwaka-rest858815",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "861544",
+                      name: "Pastas By Pizza Hut",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/0462b20f-517b-4df4-b428-2d79ae7c5056_861544.jpg",
+                      locality: "CMR Mall",
+                      areaName: "Gajuwaka",
+                      costForTwo: "₹400 for two",
+                      cuisines: ["Pastas"],
+                      avgRating: 4.3,
+                      parentId: "306806",
+                      avgRatingString: "4.3",
+                      totalRatingsString: "104",
+                      sla: {
+                        deliveryTime: 31,
+                        lastMileTravel: 3,
+                        serviceability: "SERVICEABLE",
+                        slaString: "30-35 mins",
+                        lastMileTravelString: "3.0 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {},
+                      isOpen: true,
+                      aggregatedDiscountInfoV2: {},
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {},
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/pastas-by-pizza-hut-cmr-mall-gajuwaka-rest861544",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "423919",
+                      name: "Grameen Kulfi",
+                      cloudinaryImageId: "lznvwoyaslbwwbgq6h9m",
+                      locality: "CMR Central Mall",
+                      areaName: "Gajuwaka",
+                      costForTwo: "₹120 for two",
+                      cuisines: ["Ice Cream", "Desserts"],
+                      avgRating: 4.8,
+                      veg: true,
+                      parentId: "12175",
+                      avgRatingString: "4.8",
+                      totalRatingsString: "1.0K+",
+                      sla: {
+                        deliveryTime: 19,
+                        lastMileTravel: 2.3,
+                        serviceability: "SERVICEABLE",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "2.3 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:00:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "v1695133679/badges/Pure_Veg111.png",
+                            description: "pureveg",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "pureveg",
+                                  imageId: "v1695133679/badges/Pure_Veg111.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "50% OFF",
+                        subHeader: "UPTO ₹100",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/grameen-kulfi-cmr-central-mall-gajuwaka-rest423919",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "638021",
+                      name: "Delights by INOX",
+                      cloudinaryImageId: "pzddraf9ef2lpzvxpqqb",
+                      locality: "chiatnya nagar",
+                      areaName: "Gajuwaka",
+                      costForTwo: "₹400 for two",
+                      cuisines: ["Snacks"],
+                      avgRating: 4.2,
+                      veg: true,
+                      parentId: "385095",
+                      avgRatingString: "4.2",
+                      totalRatingsString: "71",
+                      sla: {
+                        deliveryTime: 20,
+                        lastMileTravel: 3.6,
+                        serviceability: "SERVICEABLE",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "3.6 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "v1695133679/badges/Pure_Veg111.png",
+                            description: "pureveg",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "pureveg",
+                                  imageId: "v1695133679/badges/Pure_Veg111.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "50% OFF",
+                        subHeader: "UPTO ₹90",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/delights-by-inox-chiatnya-nagar-gajuwaka-rest638021",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "858814",
+                      name: "McCafe by McDonald's",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/19/f4c906d1-5873-4e0c-8a15-a5a46200abbe_858814.jpg",
+                      locality: "Celest Mall",
+                      areaName: "GAJUWAKA",
+                      costForTwo: "₹250 for two",
+                      cuisines: ["Beverages", "Desserts"],
+                      avgRating: 3.9,
+                      parentId: "8263",
+                      avgRatingString: "3.9",
+                      totalRatingsString: "9",
+                      sla: {
+                        deliveryTime: 16,
+                        lastMileTravel: 2.8,
+                        serviceability: "SERVICEABLE",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "2.8 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {},
+                      isOpen: true,
+                      aggregatedDiscountInfoV2: {},
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {},
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/mccafe-by-mcdonalds-celest-mall-gajuwaka-rest858814",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "858813",
+                      name: "McDonald's",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/18/ded4a600-60ab-4268-8007-008f5625f536_858813.jpg",
+                      locality: "Celest Mall",
+                      areaName: "GAJUWAKA",
+                      costForTwo: "₹400 for two",
+                      cuisines: ["Burgers", "Beverages", "Cafe", "Desserts"],
+                      avgRating: 4.3,
+                      parentId: "630",
+                      avgRatingString: "4.3",
+                      totalRatingsString: "1.0K+",
+                      sla: {
+                        deliveryTime: 21,
+                        lastMileTravel: 2.8,
+                        serviceability: "SERVICEABLE",
+                        slaString: "20-25 mins",
+                        lastMileTravelString: "2.8 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId:
+                              "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
+                            description: "Delivery!",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "Delivery!",
+                                  imageId:
+                                    "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "₹125 OFF",
+                        subHeader: "ABOVE ₹549",
+                        discountTag: "FLAT DEAL",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/mcdonalds-celest-mall-gajuwaka-rest858813",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "526795",
+                      name: "CakeZone Patisserie",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/23/f9494ebd-1488-4a52-9203-a2f2cfcda630_526795.JPG",
+                      locality: "Gajuwaka",
+                      areaName: "Kurmannapalem",
+                      costForTwo: "₹200 for two",
+                      cuisines: ["Bakery", "Desserts", "Sweets", "Ice Cream"],
+                      avgRating: 4.4,
+                      parentId: "7003",
+                      avgRatingString: "4.4",
+                      totalRatingsString: "2.7K+",
+                      sla: {
+                        deliveryTime: 27,
+                        lastMileTravel: 6.4,
+                        serviceability: "SERVICEABLE",
+                        slaString: "25-30 mins",
+                        lastMileTravelString: "6.4 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 22:00:00",
+                        opened: true,
+                      },
+                      badges: {},
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {},
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "₹125 OFF",
+                        subHeader: "ABOVE ₹299",
+                        discountTag: "FLAT DEAL",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/cakezone-patisserie-gajuwaka-kurmannapalem-rest526795",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "696122",
+                      name: "Ovenfresh Cakes And Desserts",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/21/23512b05-042e-42aa-93de-cf3763df46e9_696122.JPG",
+                      locality: "Gajuwaka",
+                      areaName: "Steel Plant",
+                      costForTwo: "₹200 for two",
+                      cuisines: [
+                        "Bakery",
+                        "Desserts",
+                        "Beverages",
+                        "Ice Cream",
+                        "Sweets",
+                        "Juices",
+                        "Bengali",
+                        "Pizzas",
+                      ],
+                      avgRating: 4.5,
+                      parentId: "1372",
+                      avgRatingString: "4.5",
+                      totalRatingsString: "325",
+                      sla: {
+                        deliveryTime: 32,
+                        lastMileTravel: 6.4,
+                        serviceability: "SERVICEABLE",
+                        slaString: "30-35 mins",
+                        lastMileTravelString: "6.4 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 22:00:00",
+                        opened: true,
+                      },
+                      badges: {},
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {},
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "60% OFF",
+                        subHeader: "UPTO ₹120",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/ovenfresh-cakes-and-desserts-gajuwaka-steel-plant-rest696122",
+                      type: "WEBLINK",
+                    },
+                  },
+                  {
+                    info: {
+                      id: "526798",
+                      name: "The Dessert Heaven - Pastry, Brownie and Cakes",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/13/6a6a3281-3979-46d6-a945-df029fd65af9_526798.jpg",
+                      locality: "Steel Plant",
+                      areaName: "Kurmannapalem",
+                      costForTwo: "₹200 for two",
+                      cuisines: ["Bakery", "Desserts", "Sweets", "Ice Cream"],
+                      avgRating: 4.4,
+                      veg: true,
+                      parentId: "506176",
+                      avgRatingString: "4.4",
+                      totalRatingsString: "881",
+                      sla: {
+                        deliveryTime: 31,
+                        lastMileTravel: 6.4,
+                        serviceability: "SERVICEABLE",
+                        slaString: "30-35 mins",
+                        lastMileTravelString: "6.4 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 22:00:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "v1695133679/badges/Pure_Veg111.png",
+                            description: "pureveg",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "pureveg",
+                                  imageId: "v1695133679/badges/Pure_Veg111.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "60% OFF",
+                        subHeader: "UPTO ₹120",
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/the-dessert-heaven-pastry-brownie-and-cakes-steel-plant-kurmannapalem-rest526798",
                       type: "WEBLINK",
                     },
                   },
@@ -1001,7 +1997,7 @@ export const mockResList = {
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 22:00:00",
+                        nextCloseTime: "2024-12-10 22:00:00",
                         opened: true,
                       },
                       badges: {
@@ -1054,7 +2050,7 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
                       link: "https://www.swiggy.com/city/vizag/cheesecakes-by-cakezone-steel-plant-kurmannapalem-rest581643",
@@ -1063,45 +2059,53 @@ export const mockResList = {
                   },
                   {
                     info: {
-                      id: "696122",
-                      name: "Ovenfresh Cakes And Desserts",
+                      id: "686381",
+                      name: "ITC Fabelle Chocolates",
                       cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/21/23512b05-042e-42aa-93de-cf3763df46e9_696122.JPG",
-                      locality: "Gajuwaka",
-                      areaName: "Steel Plant",
-                      costForTwo: "₹200 for two",
-                      cuisines: [
-                        "Bakery",
-                        "Desserts",
-                        "Beverages",
-                        "Ice Cream",
-                        "Sweets",
-                        "Juices",
-                        "Bengali",
-                        "Pizzas",
-                      ],
-                      avgRating: 4.5,
-                      parentId: "1372",
-                      avgRatingString: "4.5",
-                      totalRatingsString: "323",
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/26/ccae7f4e-ea5e-42fa-b957-d5a6d7de9242_686381.jpg",
+                      locality: "Near NTR Statue",
+                      areaName: "Desapatrunipalem",
+                      costForTwo: "₹600 for two",
+                      cuisines: ["Bakery", "Desserts"],
+                      avgRating: 4.6,
+                      veg: true,
+                      parentId: "11024",
+                      avgRatingString: "4.6",
+                      totalRatingsString: "41",
                       sla: {
-                        deliveryTime: 31,
+                        deliveryTime: 28,
                         lastMileTravel: 6.4,
                         serviceability: "SERVICEABLE",
-                        slaString: "30-35 mins",
+                        slaString: "25-30 mins",
                         lastMileTravelString: "6.4 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 22:00:00",
+                        nextCloseTime: "2024-12-10 22:00:00",
                         opened: true,
                       },
-                      badges: {},
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "newg.png",
+                            description: "Gourmet",
+                          },
+                        ],
+                      },
                       isOpen: true,
                       type: "F",
                       badgesV2: {
                         entityBadges: {
-                          imageBased: {},
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "Gourmet",
+                                  imageId: "newg.png",
+                                },
+                              },
+                            ],
+                          },
                           textBased: {},
                           textExtendedBadges: {},
                         },
@@ -1129,38 +2133,38 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
-                      link: "https://www.swiggy.com/city/vizag/ovenfresh-cakes-and-desserts-gajuwaka-steel-plant-rest696122",
+                      link: "https://www.swiggy.com/city/vizag/itc-fabelle-chocolates-near-ntr-statue-desapatrunipalem-rest686381",
                       type: "WEBLINK",
                     },
                   },
                   {
                     info: {
-                      id: "526798",
-                      name: "The Dessert Heaven - Pastry, Brownie and Cakes",
+                      id: "423918",
+                      name: "NIC Ice Creams",
                       cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/13/6a6a3281-3979-46d6-a945-df029fd65af9_526798.jpg",
-                      locality: "Steel Plant",
-                      areaName: "Kurmannapalem",
-                      costForTwo: "₹200 for two",
-                      cuisines: ["Bakery", "Desserts", "Sweets", "Ice Cream"],
-                      avgRating: 4.4,
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/22/cd9875d6-1fbe-43cc-9d3c-4bad01027022_423918.jpg",
+                      locality: "CMR Central Mall",
+                      areaName: "Gajuwaka",
+                      costForTwo: "₹120 for two",
+                      cuisines: ["Ice Cream", "Desserts"],
+                      avgRating: 4.7,
                       veg: true,
-                      parentId: "506176",
-                      avgRatingString: "4.4",
-                      totalRatingsString: "879",
+                      parentId: "6249",
+                      avgRatingString: "4.7",
+                      totalRatingsString: "4.7K+",
                       sla: {
-                        deliveryTime: 31,
-                        lastMileTravel: 6.4,
+                        deliveryTime: 19,
+                        lastMileTravel: 2.3,
                         serviceability: "SERVICEABLE",
-                        slaString: "30-35 mins",
-                        lastMileTravelString: "6.4 km",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "2.3 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 22:00:00",
+                        nextCloseTime: "2024-12-10 23:00:00",
                         opened: true,
                       },
                       badges: {
@@ -1190,486 +2194,6 @@ export const mockResList = {
                         },
                       },
                       aggregatedDiscountInfoV3: {
-                        header: "60% OFF",
-                        subHeader: "UPTO ₹120",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/the-dessert-heaven-pastry-brownie-and-cakes-steel-plant-kurmannapalem-rest526798",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "858813",
-                      name: "McDonald's",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/18/ded4a600-60ab-4268-8007-008f5625f536_858813.jpg",
-                      locality: "Celest Mall",
-                      areaName: "GAJUWAKA",
-                      costForTwo: "₹400 for two",
-                      cuisines: ["Burgers", "Beverages", "Cafe", "Desserts"],
-                      avgRating: 4.3,
-                      parentId: "630",
-                      avgRatingString: "4.3",
-                      totalRatingsString: "980",
-                      sla: {
-                        deliveryTime: 23,
-                        lastMileTravel: 2.8,
-                        serviceability: "SERVICEABLE",
-                        slaString: "19-24 mins",
-                        lastMileTravelString: "2.8 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 11:00:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId:
-                              "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
-                            description: "Delivery!",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId:
-                                    "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "ITEMS",
-                        subHeader: "AT ₹99",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/mcdonalds-celest-mall-gajuwaka-rest858813",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "429771",
-                      name: "Burger King",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/cab874d5-c7ed-4122-9eb9-935992f4bcee_429771.JPG",
-                      locality: "Exhibition Road",
-                      areaName: "Gajuwaka",
-                      costForTwo: "₹350 for two",
-                      cuisines: ["Burgers", "American"],
-                      avgRating: 4.4,
-                      parentId: "166",
-                      avgRatingString: "4.4",
-                      totalRatingsString: "15K+",
-                      sla: {
-                        deliveryTime: 22,
-                        lastMileTravel: 3.5,
-                        serviceability: "SERVICEABLE",
-                        slaString: "20-25 mins",
-                        lastMileTravelString: "3.5 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "Rxawards/_CATEGORY-Burger.png",
-                            description: "Delivery!",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId: "Rxawards/_CATEGORY-Burger.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "60% OFF",
-                        subHeader: "UPTO ₹120",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "4.6",
-                          ratingCount: "1.9K+",
-                        },
-                        source: "GOOGLE",
-                        sourceIconImageId:
-                          "v1704440323/google_ratings/rating_google_tag",
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/burger-king-exhibition-road-gajuwaka-rest429771",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "646930",
-                      name: "KFC",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/5595f5eb-ad59-43c1-92f8-1c2192f06d4f_646930.JPG",
-                      locality: "Main road",
-                      areaName: "Kurmannapalem",
-                      costForTwo: "₹400 for two",
-                      cuisines: ["Burgers", "Fast Food", "Rolls & Wraps"],
-                      avgRating: 4.3,
-                      parentId: "547",
-                      avgRatingString: "4.3",
-                      totalRatingsString: "3.7K+",
-                      sla: {
-                        deliveryTime: 37,
-                        lastMileTravel: 7.6,
-                        serviceability: "SERVICEABLE",
-                        slaString: "34-39 mins",
-                        lastMileTravelString: "7.6 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 11:00:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "Rxawards/_CATEGORY-Burger.png",
-                            description: "Delivery!",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId: "Rxawards/_CATEGORY-Burger.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "20% OFF",
-                        subHeader: "ABOVE ₹2999",
-                        discountTag: "FLAT DEAL",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/kfc-main-road-kurmannapalem-rest646930",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "526795",
-                      name: "CakeZone Patisserie",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/23/f9494ebd-1488-4a52-9203-a2f2cfcda630_526795.JPG",
-                      locality: "Gajuwaka",
-                      areaName: "Kurmannapalem",
-                      costForTwo: "₹200 for two",
-                      cuisines: ["Bakery", "Desserts", "Sweets", "Ice Cream"],
-                      avgRating: 4.4,
-                      parentId: "7003",
-                      avgRatingString: "4.4",
-                      totalRatingsString: "2.7K+",
-                      sla: {
-                        deliveryTime: 29,
-                        lastMileTravel: 6.4,
-                        serviceability: "SERVICEABLE",
-                        slaString: "25-30 mins",
-                        lastMileTravelString: "6.4 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 22:00:00",
-                        opened: true,
-                      },
-                      badges: {},
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {},
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "₹125 OFF",
-                        subHeader: "ABOVE ₹299",
-                        discountTag: "FLAT DEAL",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/cakezone-patisserie-gajuwaka-kurmannapalem-rest526795",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "196926",
-                      name: "Ibaco",
-                      cloudinaryImageId: "l0ic42djgaznawz7okxv",
-                      areaName: "Gajuwaka",
-                      costForTwo: "₹300 for two",
-                      cuisines: ["Ice Cream"],
-                      avgRating: 4.6,
-                      veg: true,
-                      parentId: "3481",
-                      avgRatingString: "4.6",
-                      totalRatingsString: "2.0K+",
-                      sla: {
-                        deliveryTime: 17,
-                        lastMileTravel: 2.4,
-                        serviceability: "SERVICEABLE",
-                        slaString: "15-20 mins",
-                        lastMileTravelString: "2.4 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "Rxawards/_CATEGORY-Ice-creams.png",
-                            description: "Delivery!",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      aggregatedDiscountInfoV2: {},
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId: "Rxawards/_CATEGORY-Ice-creams.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/ibaco-gajuwaka-rest196926",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "334228",
-                      name: "Pizza Hut",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/19cab596-cc4c-46bb-93a9-0fbdcf60799e_334228.jpg",
-                      locality: "Gajuwaka",
-                      areaName: "Gajuwaka",
-                      costForTwo: "₹350 for two",
-                      cuisines: ["Pizzas"],
-                      avgRating: 4.3,
-                      parentId: "721",
-                      avgRatingString: "4.3",
-                      totalRatingsString: "8.1K+",
-                      sla: {
-                        deliveryTime: 32,
-                        lastMileTravel: 3.5,
-                        serviceability: "SERVICEABLE",
-                        slaString: "30-35 mins",
-                        lastMileTravelString: "3.5 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "Rxawards/_CATEGORY-Pizza.png",
-                            description: "Delivery!",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId: "Rxawards/_CATEGORY-Pizza.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
                         header: "50% OFF",
                         subHeader: "UPTO ₹90",
                       },
@@ -1685,103 +2209,6 @@ export const mockResList = {
                       restaurantOfferPresentationInfo: {},
                       externalRatings: {
                         aggregatedRating: {
-                          rating: "4.3",
-                          ratingCount: "981",
-                        },
-                        source: "GOOGLE",
-                        sourceIconImageId:
-                          "v1704440323/google_ratings/rating_google_tag",
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/pizza-hut-gajuwaka-rest334228",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "323686",
-                      name: "Cream Stone Ice Cream",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/9/d4226d2a-f181-4ac8-adad-ecdf8b505b03_323686.jpg",
-                      areaName: "Sheela Nagar",
-                      costForTwo: "₹300 for two",
-                      cuisines: ["Ice Cream", "Desserts", "Beverages"],
-                      avgRating: 4.6,
-                      veg: true,
-                      parentId: "289",
-                      avgRatingString: "4.6",
-                      totalRatingsString: "4.2K+",
-                      sla: {
-                        deliveryTime: 14,
-                        lastMileTravel: 1.9,
-                        serviceability: "SERVICEABLE",
-                        slaString: "10-15 mins",
-                        lastMileTravelString: "1.9 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "Rxawards/_CATEGORY-Desserts.png",
-                            description: "Delivery!",
-                          },
-                          {
-                            imageId: "Rxawards/_CATEGORY-Ice-creams.png",
-                            description: "Delivery!",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId: "Rxawards/_CATEGORY-Desserts.png",
-                                },
-                              },
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId: "Rxawards/_CATEGORY-Ice-creams.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "₹100 OFF",
-                        subHeader: "ABOVE ₹449",
-                        discountTag: "FLAT DEAL",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
                           rating: "--",
                         },
                       },
@@ -1789,10 +2216,10 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
-                      link: "https://www.swiggy.com/city/vizag/cream-stone-ice-cream-sheela-nagar-rest323686",
+                      link: "https://www.swiggy.com/city/vizag/nic-ice-creams-cmr-central-mall-gajuwaka-rest423918",
                       type: "WEBLINK",
                     },
                   },
@@ -1811,15 +2238,15 @@ export const mockResList = {
                       avgRatingString: "4.4",
                       totalRatingsString: "1.1K+",
                       sla: {
-                        deliveryTime: 30,
+                        deliveryTime: 21,
                         lastMileTravel: 4.7,
                         serviceability: "SERVICEABLE",
-                        slaString: "25-30 mins",
+                        slaString: "20-25 mins",
                         lastMileTravelString: "4.7 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 19:30:00",
+                        nextCloseTime: "2024-12-10 19:30:00",
                         opened: true,
                       },
                       badges: {
@@ -1872,7 +2299,7 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
                       link: "https://www.swiggy.com/city/vizag/kwality-walls-ice-cream-and-more-auto-nagar-gajuwaka-rest441333",
@@ -1881,248 +2308,39 @@ export const mockResList = {
                   },
                   {
                     info: {
-                      id: "861544",
-                      name: "Pastas By Pizza Hut",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/0462b20f-517b-4df4-b428-2d79ae7c5056_861544.jpg",
-                      locality: "CMR Mall",
+                      id: "196926",
+                      name: "Ibaco",
+                      cloudinaryImageId: "l0ic42djgaznawz7okxv",
                       areaName: "Gajuwaka",
-                      costForTwo: "₹400 for two",
-                      cuisines: ["Pastas"],
-                      avgRating: 4.4,
-                      parentId: "306806",
-                      avgRatingString: "4.4",
-                      totalRatingsString: "101",
-                      sla: {
-                        deliveryTime: 38,
-                        lastMileTravel: 3.5,
-                        serviceability: "SERVICEABLE",
-                        slaString: "35-40 mins",
-                        lastMileTravelString: "3.5 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
-                        opened: true,
-                      },
-                      badges: {},
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {},
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "40% OFF",
-                        subHeader: "UPTO ₹80",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/pastas-by-pizza-hut-cmr-mall-gajuwaka-rest861544",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "566438",
-                      name: "Faasos' Signature Wraps & Rolls",
-                      cloudinaryImageId: "c583ca6ce40b426797a78ae2ac91f2ec",
-                      locality: "laxmi nagar",
-                      areaName: "Simhachalam",
-                      costForTwo: "₹350 for two",
-                      cuisines: [
-                        "Fast Food",
-                        "Snacks",
-                        "North Indian",
-                        "Desserts",
-                        "Beverages",
-                      ],
-                      avgRating: 4.1,
-                      parentId: "340366",
-                      avgRatingString: "4.1",
-                      totalRatingsString: "248",
-                      sla: {
-                        deliveryTime: 47,
-                        lastMileTravel: 11.4,
-                        serviceability: "SERVICEABLE",
-                        slaString: "45-50 mins",
-                        lastMileTravelString: "11.4 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
-                        opened: true,
-                      },
-                      badges: {},
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {},
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "₹125 OFF",
-                        subHeader: "ABOVE ₹399",
-                        discountTag: "FLAT DEAL",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/faasos-signature-wraps-and-rolls-laxmi-nagar-simhachalam-rest566438",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "801396",
-                      name: "Makhani Darbar",
-                      cloudinaryImageId: "c583da4b69d264ffe705e5918fad0e98",
-                      locality: "NAD Vizag",
-                      areaName: "laxmi nagar",
-                      costForTwo: "₹500 for two",
-                      cuisines: ["Kebabs", "Mughlai", "Beverages", "Desserts"],
-                      avgRating: 4,
-                      parentId: "478595",
-                      avgRatingString: "4.0",
-                      totalRatingsString: "61",
-                      sla: {
-                        deliveryTime: 47,
-                        lastMileTravel: 11.4,
-                        serviceability: "SERVICEABLE",
-                        slaString: "45-50 mins",
-                        lastMileTravelString: "11.4 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
-                        opened: true,
-                      },
-                      badges: {},
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {},
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "₹125 OFF",
-                        subHeader: "ABOVE ₹399",
-                        discountTag: "FLAT DEAL",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/makhani-darbar-nad-laxmi-nagar-rest801396",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "263849",
-                      name: "Veg Meals by Lunchbox",
-                      cloudinaryImageId: "os2feb7v8lyrmhui5tvo",
-                      locality: "laxmi nagar",
-                      areaName: "Gopalapatnam",
-                      costForTwo: "₹200 for two",
-                      cuisines: [
-                        "Biryani",
-                        "North Indian",
-                        "Desserts",
-                        "Beverages",
-                      ],
-                      avgRating: 4.1,
+                      costForTwo: "₹300 for two",
+                      cuisines: ["Ice Cream"],
+                      avgRating: 4.6,
                       veg: true,
-                      parentId: "21938",
-                      avgRatingString: "4.1",
-                      totalRatingsString: "92",
+                      parentId: "3481",
+                      avgRatingString: "4.6",
+                      totalRatingsString: "2.0K+",
                       sla: {
-                        deliveryTime: 48,
-                        lastMileTravel: 11.4,
+                        deliveryTime: 20,
+                        lastMileTravel: 2.4,
                         serviceability: "SERVICEABLE",
-                        slaString: "45-50 mins",
-                        lastMileTravelString: "11.4 km",
+                        slaString: "20-25 mins",
+                        lastMileTravelString: "2.4 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
+                        nextCloseTime: "2024-12-10 23:59:00",
                         opened: true,
                       },
                       badges: {
                         imageBadges: [
                           {
-                            imageId: "v1695133679/badges/Pure_Veg111.png",
-                            description: "pureveg",
+                            imageId: "Rxawards/_CATEGORY-Ice-creams.png",
+                            description: "Delivery!",
                           },
                         ],
                       },
                       isOpen: true,
+                      aggregatedDiscountInfoV2: {},
                       type: "F",
                       badgesV2: {
                         entityBadges: {
@@ -2130,8 +2348,8 @@ export const mockResList = {
                             badgeObject: [
                               {
                                 attributes: {
-                                  description: "pureveg",
-                                  imageId: "v1695133679/badges/Pure_Veg111.png",
+                                  description: "Delivery!",
+                                  imageId: "Rxawards/_CATEGORY-Ice-creams.png",
                                 },
                               },
                             ],
@@ -2140,10 +2358,6 @@ export const mockResList = {
                           textExtendedBadges: {},
                         },
                       },
-                      aggregatedDiscountInfoV3: {
-                        header: "ITEMS",
-                        subHeader: "AT ₹159",
-                      },
                       differentiatedUi: {
                         displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
                         differentiatedUiMediaDetails: {
@@ -2163,37 +2377,36 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
-                      link: "https://www.swiggy.com/city/vizag/veg-meals-by-lunchbox-laxmi-nagar-gopalapatnam-rest263849",
+                      link: "https://www.swiggy.com/city/vizag/ibaco-gajuwaka-rest196926",
                       type: "WEBLINK",
                     },
                   },
                   {
                     info: {
-                      id: "638021",
-                      name: "Delights by INOX",
-                      cloudinaryImageId: "pzddraf9ef2lpzvxpqqb",
-                      locality: "chiatnya nagar",
+                      id: "119985",
+                      name: "The Thick Shake Factory",
+                      cloudinaryImageId: "mircgnth4prtbt1o1zif",
+                      locality: "Gajuwaka",
                       areaName: "Gajuwaka",
-                      costForTwo: "₹400 for two",
-                      cuisines: ["Snacks"],
+                      costForTwo: "₹300 for two",
+                      cuisines: ["Beverages", "American"],
                       avgRating: 4.2,
-                      veg: true,
-                      parentId: "385095",
+                      parentId: "1033",
                       avgRatingString: "4.2",
-                      totalRatingsString: "71",
+                      totalRatingsString: "5.5K+",
                       sla: {
-                        deliveryTime: 21,
-                        lastMileTravel: 3.6,
+                        deliveryTime: 20,
+                        lastMileTravel: 2.5,
                         serviceability: "SERVICEABLE",
-                        slaString: "20-25 mins",
-                        lastMileTravelString: "3.6 km",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "2.5 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
+                        nextCloseTime: "2024-12-10 23:25:00",
                         opened: true,
                       },
                       badges: {
@@ -2245,244 +2458,10 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
-                      link: "https://www.swiggy.com/city/vizag/delights-by-inox-chiatnya-nagar-gajuwaka-rest638021",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "66074",
-                      name: "Celebrations Restaurant",
-                      cloudinaryImageId: "parxfzqlhvjobxobzbcj",
-                      locality: "Thagarapuvalasa",
-                      areaName: "Marripalem",
-                      costForTwo: "₹200 for two",
-                      cuisines: ["Indian", "Chinese", "Tandoor", "Biryani"],
-                      avgRating: 4.5,
-                      parentId: "56280",
-                      avgRatingString: "4.5",
-                      totalRatingsString: "54K+",
-                      sla: {
-                        deliveryTime: 52,
-                        lastMileTravel: 11.5,
-                        serviceability: "SERVICEABLE",
-                        slaString: "49-54 mins",
-                        lastMileTravelString: "11.5 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 11:00:00",
-                        opened: true,
-                      },
-                      badges: {},
-                      isOpen: true,
-                      aggregatedDiscountInfoV2: {},
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {},
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "4.4",
-                          ratingCount: "4.3K+",
-                        },
-                        source: "GOOGLE",
-                        sourceIconImageId:
-                          "v1704440323/google_ratings/rating_google_tag",
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/celebrations-restaurant-thagarapuvalasa-marripalem-rest66074",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "686381",
-                      name: "ITC Fabelle Chocolates",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/26/ccae7f4e-ea5e-42fa-b957-d5a6d7de9242_686381.jpg",
-                      locality: "Near NTR Statue",
-                      areaName: "Desapatrunipalem",
-                      costForTwo: "₹600 for two",
-                      cuisines: ["Bakery", "Desserts"],
-                      avgRating: 4.6,
-                      veg: true,
-                      parentId: "11024",
-                      avgRatingString: "4.6",
-                      totalRatingsString: "41",
-                      sla: {
-                        deliveryTime: 28,
-                        lastMileTravel: 6.4,
-                        serviceability: "SERVICEABLE",
-                        slaString: "25-30 mins",
-                        lastMileTravelString: "6.4 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 22:00:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "newg.png",
-                            description: "Gourmet",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Gourmet",
-                                  imageId: "newg.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "60% OFF",
-                        subHeader: "UPTO ₹120",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/itc-fabelle-chocolates-near-ntr-statue-desapatrunipalem-rest686381",
-                      type: "WEBLINK",
-                    },
-                  },
-                  {
-                    info: {
-                      id: "390655",
-                      name: "The Red Box",
-                      cloudinaryImageId: "zlx1hsdkqe0eoayx7pmx",
-                      locality: "Gajuwaka",
-                      areaName: "Gajuwaka",
-                      costForTwo: "₹400 for two",
-                      cuisines: ["Chinese"],
-                      avgRating: 4.1,
-                      parentId: "1636",
-                      avgRatingString: "4.1",
-                      totalRatingsString: "3.4K+",
-                      sla: {
-                        deliveryTime: 41,
-                        lastMileTravel: 2.5,
-                        serviceability: "SERVICEABLE",
-                        slaString: "40-45 mins",
-                        lastMileTravelString: "2.5 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:30:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "Rxawards/_CATEGORY-Chinese.png",
-                            description: "Delivery!",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId: "Rxawards/_CATEGORY-Chinese.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "40% OFF",
-                        subHeader: "UPTO ₹80",
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "3.9",
-                          ratingCount: "179",
-                        },
-                        source: "GOOGLE",
-                        sourceIconImageId:
-                          "v1704440323/google_ratings/rating_google_tag",
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/the-red-box-gajuwaka-rest390655",
+                      link: "https://www.swiggy.com/city/vizag/the-thick-shake-factory-gajuwaka-rest119985",
                       type: "WEBLINK",
                     },
                   },
@@ -2546,7 +2525,7 @@ export const mockResList = {
                 title: "Cost: High to Low",
               },
             ],
-            restaurantCount: 640,
+            restaurantCount: 728,
             facetList: [
               {
                 label: "Delivery Time",
@@ -2641,6 +2620,12 @@ export const mockResList = {
                     openFilter: true,
                   },
                   {
+                    label: "Cakes",
+                    id: "query_cakes",
+                    analytics: {},
+                    openFilter: true,
+                  },
+                  {
                     label: "Cakes & Pastries",
                     id: "query_cakes_&_pastries",
                     analytics: {},
@@ -2661,6 +2646,12 @@ export const mockResList = {
                   {
                     label: "Chinese",
                     id: "query_chinese",
+                    analytics: {},
+                    openFilter: true,
+                  },
+                  {
+                    label: "Combos",
+                    id: "query_combos",
                     analytics: {},
                     openFilter: true,
                   },
@@ -2887,6 +2878,12 @@ export const mockResList = {
                     openFilter: true,
                   },
                   {
+                    label: "Rolls",
+                    id: "query_rolls",
+                    analytics: {},
+                    openFilter: true,
+                  },
+                  {
                     label: "Rolls & Wraps",
                     id: "query_rolls_&_wraps",
                     analytics: {},
@@ -2959,8 +2956,20 @@ export const mockResList = {
                     openFilter: true,
                   },
                   {
+                    label: "Thali",
+                    id: "query_thali",
+                    analytics: {},
+                    openFilter: true,
+                  },
+                  {
                     label: "Thalis",
                     id: "query_thalis",
+                    analytics: {},
+                    openFilter: true,
+                  },
+                  {
+                    label: "Tibetan",
+                    id: "query_tibetan",
                     analytics: {},
                     openFilter: true,
                   },
@@ -3143,302 +3152,20 @@ export const mockResList = {
                 restaurants: [
                   {
                     info: {
-                      id: "167119",
-                      name: "Uma Parlour - Pure Veg",
-                      cloudinaryImageId: "zskk21orirlgzrjddimy",
-                      locality: "Gajuwaka",
-                      areaName: "Sheela Nagar",
-                      costForTwo: "₹200 for two",
-                      cuisines: ["South Indian"],
-                      avgRating: 4.5,
-                      parentId: "472032",
-                      avgRatingString: "4.5",
-                      totalRatingsString: "43K+",
-                      sla: {
-                        deliveryTime: 16,
-                        lastMileTravel: 2.4,
-                        serviceability: "SERVICEABLE",
-                        slaString: "15-20 mins",
-                        lastMileTravelString: "2.4 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 23:30:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "v1695133679/badges/Pure_Veg111.png",
-                            description: "pureveg",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "pureveg",
-                                  imageId: "v1695133679/badges/Pure_Veg111.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "20% OFF",
-                        subHeader: "UPTO ₹50",
-                      },
-                      orderabilityCommunication: {
-                        title: {},
-                        subTitle: {},
-                        message: {},
-                        customIcon: {},
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "4.0",
-                          ratingCount: "2.0K+",
-                        },
-                        source: "GOOGLE",
-                        sourceIconImageId:
-                          "v1704440323/google_ratings/rating_google_tag",
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/uma-parlour-pure-veg-gajuwaka-sheela-nagar-rest167119",
-                      text: "RESTAURANT_MENU",
-                      type: "WEBLINK",
-                    },
-                    widgetId:
-                      "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
-                  },
-                  {
-                    info: {
-                      id: "70469",
-                      name: "Hotel Prabha Veg Restaurant",
-                      cloudinaryImageId: "gtvtfctgsvoopjgg4xkb",
-                      locality: "Lankelapalem",
-                      areaName: "NAD",
-                      costForTwo: "₹200 for two",
-                      cuisines: ["South Indian"],
-                      avgRating: 4.6,
-                      parentId: "473072",
-                      avgRatingString: "4.6",
-                      totalRatingsString: "57K+",
-                      sla: {
-                        deliveryTime: 36,
-                        lastMileTravel: 9.9,
-                        serviceability: "SERVICEABLE",
-                        slaString: "35-40 mins",
-                        lastMileTravelString: "9.9 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 22:15:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "v1695133679/badges/Pure_Veg111.png",
-                            description: "pureveg",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "pureveg",
-                                  imageId: "v1695133679/badges/Pure_Veg111.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "₹100 OFF",
-                        subHeader: "ABOVE ₹299",
-                        discountTag: "FLAT DEAL",
-                      },
-                      orderabilityCommunication: {
-                        title: {},
-                        subTitle: {},
-                        message: {},
-                        customIcon: {},
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "4.0",
-                          ratingCount: "4.8K+",
-                        },
-                        source: "GOOGLE",
-                        sourceIconImageId:
-                          "v1704440323/google_ratings/rating_google_tag",
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/hotel-prabha-veg-restaurant-lankelapalem-nad-rest70469",
-                      text: "RESTAURANT_MENU",
-                      type: "WEBLINK",
-                    },
-                    widgetId:
-                      "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
-                  },
-                  {
-                    info: {
-                      id: "141529",
-                      name: "Ramachandra Parlour",
-                      cloudinaryImageId: "shtyfaasefm35ohqirpp",
-                      areaName: "Sheela Nagar",
-                      costForTwo: "₹200 for two",
-                      cuisines: ["South Indian"],
-                      avgRating: 4.4,
-                      parentId: "12962",
-                      avgRatingString: "4.4",
-                      totalRatingsString: "36K+",
-                      sla: {
-                        deliveryTime: 18,
-                        lastMileTravel: 2.4,
-                        serviceability: "SERVICEABLE",
-                        slaString: "15-20 mins",
-                        lastMileTravelString: "2.4 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 22:30:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "v1695133679/badges/Pure_Veg111.png",
-                            description: "pureveg",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "pureveg",
-                                  imageId: "v1695133679/badges/Pure_Veg111.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      aggregatedDiscountInfoV3: {
-                        header: "₹50 OFF",
-                        subHeader: "ABOVE ₹249",
-                        discountTag: "FLAT DEAL",
-                      },
-                      orderabilityCommunication: {
-                        title: {},
-                        subTitle: {},
-                        message: {},
-                        customIcon: {},
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/ramachandra-parlour-sheela-nagar-rest141529",
-                      text: "RESTAURANT_MENU",
-                      type: "WEBLINK",
-                    },
-                    widgetId:
-                      "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
-                  },
-                  {
-                    info: {
-                      id: "450148",
-                      name: "Eaters Stop",
+                      id: "334228",
+                      name: "Pizza Hut",
                       cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/2/a7776fad-abc0-4d79-881d-dadb8173cb60_450148.jpg",
-                      locality: "Sramika Nagar",
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/19cab596-cc4c-46bb-93a9-0fbdcf60799e_334228.jpg",
+                      locality: "Gajuwaka",
                       areaName: "Gajuwaka",
                       costForTwo: "₹350 for two",
-                      cuisines: ["Biryani", "Tandoor", "Chinese"],
-                      avgRating: 4.4,
-                      parentId: "12347",
-                      avgRatingString: "4.4",
-                      totalRatingsString: "42K+",
+                      cuisines: ["Pizzas"],
+                      avgRating: 4.3,
+                      parentId: "721",
+                      avgRatingString: "4.3",
+                      totalRatingsString: "8.1K+",
                       sla: {
-                        deliveryTime: 25,
+                        deliveryTime: 30,
                         lastMileTravel: 3,
                         serviceability: "SERVICEABLE",
                         slaString: "25-30 mins",
@@ -3446,13 +3173,13 @@ export const mockResList = {
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 23:00:00",
+                        nextCloseTime: "2024-12-10 23:59:00",
                         opened: true,
                       },
                       badges: {
                         imageBadges: [
                           {
-                            imageId: "Rxawards/_CATEGORY-North%20Indian.png",
+                            imageId: "Rxawards/_CATEGORY-Pizza.png",
                             description: "Delivery!",
                           },
                         ],
@@ -3466,8 +3193,7 @@ export const mockResList = {
                               {
                                 attributes: {
                                   description: "Delivery!",
-                                  imageId:
-                                    "Rxawards/_CATEGORY-North%20Indian.png",
+                                  imageId: "Rxawards/_CATEGORY-Pizza.png",
                                 },
                               },
                             ],
@@ -3477,9 +3203,8 @@ export const mockResList = {
                         },
                       },
                       aggregatedDiscountInfoV3: {
-                        header: "₹100 OFF",
-                        subHeader: "ABOVE ₹249",
-                        discountTag: "FLAT DEAL",
+                        header: "50% OFF",
+                        subHeader: "UPTO ₹90",
                       },
                       orderabilityCommunication: {
                         title: {},
@@ -3500,97 +3225,8 @@ export const mockResList = {
                       restaurantOfferPresentationInfo: {},
                       externalRatings: {
                         aggregatedRating: {
-                          rating: "--",
-                        },
-                      },
-                      ratingsDisplayPreference:
-                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-                    },
-                    analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
-                    },
-                    cta: {
-                      link: "https://www.swiggy.com/city/vizag/eaters-stop-sramika-nagar-gajuwaka-rest450148",
-                      text: "RESTAURANT_MENU",
-                      type: "WEBLINK",
-                    },
-                    widgetId:
-                      "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
-                  },
-                  {
-                    info: {
-                      id: "84266",
-                      name: "Sai Ram Parlour",
-                      cloudinaryImageId: "aorebea1gkcgs43orzlg",
-                      locality: "Kurmannapalem",
-                      areaName: "Kurmannapalem",
-                      costForTwo: "₹200 for two",
-                      cuisines: ["South Indian"],
-                      avgRating: 4.5,
-                      parentId: "13025",
-                      avgRatingString: "4.5",
-                      totalRatingsString: "20K+",
-                      sla: {
-                        deliveryTime: 26,
-                        lastMileTravel: 5.5,
-                        serviceability: "SERVICEABLE",
-                        slaString: "25-30 mins",
-                        lastMileTravelString: "5.5 km",
-                        iconType: "ICON_TYPE_EMPTY",
-                      },
-                      availability: {
-                        nextCloseTime: "2024-12-05 22:45:00",
-                        opened: true,
-                      },
-                      badges: {
-                        imageBadges: [
-                          {
-                            imageId: "Rxawards/_CATEGORY-South%20Indian.png",
-                            description: "Delivery!",
-                          },
-                        ],
-                      },
-                      isOpen: true,
-                      aggregatedDiscountInfoV2: {},
-                      type: "F",
-                      badgesV2: {
-                        entityBadges: {
-                          imageBased: {
-                            badgeObject: [
-                              {
-                                attributes: {
-                                  description: "Delivery!",
-                                  imageId:
-                                    "Rxawards/_CATEGORY-South%20Indian.png",
-                                },
-                              },
-                            ],
-                          },
-                          textBased: {},
-                          textExtendedBadges: {},
-                        },
-                      },
-                      orderabilityCommunication: {
-                        title: {},
-                        subTitle: {},
-                        message: {},
-                        customIcon: {},
-                      },
-                      differentiatedUi: {
-                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        differentiatedUiMediaDetails: {
-                          mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                          lottie: {},
-                          video: {},
-                        },
-                      },
-                      reviewsSummary: {},
-                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      restaurantOfferPresentationInfo: {},
-                      externalRatings: {
-                        aggregatedRating: {
-                          rating: "3.9",
-                          ratingCount: "140",
+                          rating: "4.3",
+                          ratingCount: "993",
                         },
                         source: "GOOGLE",
                         sourceIconImageId:
@@ -3600,10 +3236,10 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
-                      link: "https://www.swiggy.com/city/vizag/sai-ram-parlour-kurmannapalem-rest84266",
+                      link: "https://www.swiggy.com/city/vizag/pizza-hut-gajuwaka-rest334228",
                       text: "RESTAURANT_MENU",
                       type: "WEBLINK",
                     },
@@ -3615,7 +3251,7 @@ export const mockResList = {
                       id: "321242",
                       name: "Subway",
                       cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/25/bef38094-6e45-40b9-9317-2bbe04861c84_321242.jpg",
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/fdbbe888-f309-40a9-9c29-6acf80cdd824_321242.JPG",
                       locality: "Gajuwaka",
                       areaName: "Chaitanya Nagar",
                       costForTwo: "₹300 for two",
@@ -3631,15 +3267,15 @@ export const mockResList = {
                       avgRatingString: "4.3",
                       totalRatingsString: "3.7K+",
                       sla: {
-                        deliveryTime: 30,
+                        deliveryTime: 19,
                         lastMileTravel: 3.6,
                         serviceability: "SERVICEABLE",
-                        slaString: "25-30 mins",
+                        slaString: "15-20 mins",
                         lastMileTravelString: "3.6 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 23:59:00",
+                        nextCloseTime: "2024-12-10 23:59:00",
                         opened: true,
                       },
                       badges: {
@@ -3697,7 +3333,7 @@ export const mockResList = {
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
                       link: "https://www.swiggy.com/city/vizag/subway-gajuwaka-chaitanya-nagar-rest321242",
@@ -3709,36 +3345,35 @@ export const mockResList = {
                   },
                   {
                     info: {
-                      id: "581643",
-                      name: "Cheesecakes By CakeZone",
+                      id: "429771",
+                      name: "Burger King",
                       cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/13/e8b6b7cb-65cb-45e8-bcbf-4d0d01e826dd_581643.JPG",
-                      locality: "Steel Plant",
-                      areaName: "Kurmannapalem",
-                      costForTwo: "₹200 for two",
-                      cuisines: ["Bakery", "Desserts"],
-                      avgRating: 4.1,
-                      veg: true,
-                      parentId: "348057",
-                      avgRatingString: "4.1",
-                      totalRatingsString: "171",
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/cab874d5-c7ed-4122-9eb9-935992f4bcee_429771.JPG",
+                      locality: "Exhibition Road",
+                      areaName: "Gajuwaka",
+                      costForTwo: "₹350 for two",
+                      cuisines: ["Burgers", "American"],
+                      avgRating: 4.4,
+                      parentId: "166",
+                      avgRatingString: "4.4",
+                      totalRatingsString: "15K+",
                       sla: {
-                        deliveryTime: 27,
-                        lastMileTravel: 6.4,
+                        deliveryTime: 19,
+                        lastMileTravel: 3,
                         serviceability: "SERVICEABLE",
-                        slaString: "25-30 mins",
-                        lastMileTravelString: "6.4 km",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "3.0 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 22:00:00",
+                        nextCloseTime: "2024-12-10 23:59:00",
                         opened: true,
                       },
                       badges: {
                         imageBadges: [
                           {
-                            imageId: "newg.png",
-                            description: "Gourmet",
+                            imageId: "Rxawards/_CATEGORY-Burger.png",
+                            description: "Delivery!",
                           },
                         ],
                       },
@@ -3750,12 +3385,359 @@ export const mockResList = {
                             badgeObject: [
                               {
                                 attributes: {
-                                  description: "Gourmet",
-                                  imageId: "newg.png",
+                                  description: "Delivery!",
+                                  imageId: "Rxawards/_CATEGORY-Burger.png",
                                 },
                               },
                             ],
                           },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "60% OFF",
+                        subHeader: "UPTO ₹120",
+                      },
+                      orderabilityCommunication: {
+                        title: {},
+                        subTitle: {},
+                        message: {},
+                        customIcon: {},
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "4.6",
+                          ratingCount: "2.0K+",
+                        },
+                        source: "GOOGLE",
+                        sourceIconImageId:
+                          "v1704440323/google_ratings/rating_google_tag",
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/burger-king-exhibition-road-gajuwaka-rest429771",
+                      text: "RESTAURANT_MENU",
+                      type: "WEBLINK",
+                    },
+                    widgetId:
+                      "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+                  },
+                  {
+                    info: {
+                      id: "967089",
+                      name: "The Belgian Waffle Co.",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/1/b4027a71-1a7b-4feb-a4d1-42f3e2cd30ae_967089.jpg",
+                      locality: "OLD GAJUWAKA",
+                      areaName: "CHAITNANYA NAGAR",
+                      costForTwo: "₹200 for two",
+                      cuisines: [
+                        "Waffle",
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages",
+                      ],
+                      avgRating: 4.6,
+                      veg: true,
+                      parentId: "2233",
+                      avgRatingString: "4.6",
+                      totalRatingsString: "24",
+                      sla: {
+                        deliveryTime: 26,
+                        lastMileTravel: 2.1,
+                        serviceability: "SERVICEABLE",
+                        slaString: "25-30 mins",
+                        lastMileTravelString: "2.1 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {},
+                      isOpen: true,
+                      aggregatedDiscountInfoV2: {},
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {},
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      orderabilityCommunication: {
+                        title: {},
+                        subTitle: {},
+                        message: {},
+                        customIcon: {},
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      isNewlyOnboarded: true,
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/the-belgian-waffle-co-old-gajuwaka-chaitnanya-nagar-rest967089",
+                      text: "RESTAURANT_MENU",
+                      type: "WEBLINK",
+                    },
+                    widgetId:
+                      "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+                  },
+                  {
+                    info: {
+                      id: "790281",
+                      name: "KFC",
+                      cloudinaryImageId:
+                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/31534886-98db-43a2-a6c3-3eed40fd4ff7_790281.JPG",
+                      locality: "Gajuwaka",
+                      areaName: "Vizag",
+                      costForTwo: "₹400 for two",
+                      cuisines: ["Burgers", "Fast Food", "Rolls & Wraps"],
+                      avgRating: 4.3,
+                      parentId: "547",
+                      avgRatingString: "4.3",
+                      totalRatingsString: "2.4K+",
+                      sla: {
+                        deliveryTime: 19,
+                        lastMileTravel: 1.3,
+                        serviceability: "SERVICEABLE",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "1.3 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:00:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "Rxawards/_CATEGORY-Burger.png",
+                            description: "Delivery!",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "Delivery!",
+                                  imageId: "Rxawards/_CATEGORY-Burger.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "10% OFF",
+                        subHeader: "UPTO ₹40",
+                      },
+                      orderabilityCommunication: {
+                        title: {},
+                        subTitle: {},
+                        message: {},
+                        customIcon: {},
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "--",
+                        },
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/kfc-gajuwaka-vizag-rest790281",
+                      text: "RESTAURANT_MENU",
+                      type: "WEBLINK",
+                    },
+                    widgetId:
+                      "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+                  },
+                  {
+                    info: {
+                      id: "66469",
+                      name: "Grand Alpha(Original)",
+                      cloudinaryImageId: "xgus21ov1ncd3shvvvgc",
+                      locality: "Gajuwaka",
+                      areaName: "Sheela Nagar",
+                      costForTwo: "₹350 for two",
+                      cuisines: ["Indian", "Tandoor", "Biryani"],
+                      avgRating: 4.4,
+                      parentId: "472650",
+                      avgRatingString: "4.4",
+                      totalRatingsString: "158K+",
+                      sla: {
+                        deliveryTime: 20,
+                        lastMileTravel: 2.3,
+                        serviceability: "SERVICEABLE",
+                        slaString: "15-20 mins",
+                        lastMileTravelString: "2.3 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 16:00:00",
+                        opened: true,
+                      },
+                      badges: {
+                        imageBadges: [
+                          {
+                            imageId: "Rxawards/_CATEGORY-Biryani.png",
+                            description: "Delivery!",
+                          },
+                        ],
+                      },
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {
+                            badgeObject: [
+                              {
+                                attributes: {
+                                  description: "Delivery!",
+                                  imageId: "Rxawards/_CATEGORY-Biryani.png",
+                                },
+                              },
+                            ],
+                          },
+                          textBased: {},
+                          textExtendedBadges: {},
+                        },
+                      },
+                      aggregatedDiscountInfoV3: {
+                        header: "₹125 OFF",
+                        subHeader: "ABOVE ₹249",
+                        discountTag: "FLAT DEAL",
+                      },
+                      orderabilityCommunication: {
+                        title: {},
+                        subTitle: {},
+                        message: {},
+                        customIcon: {},
+                      },
+                      differentiatedUi: {
+                        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        differentiatedUiMediaDetails: {
+                          mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                          lottie: {},
+                          video: {},
+                        },
+                      },
+                      reviewsSummary: {},
+                      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      restaurantOfferPresentationInfo: {},
+                      externalRatings: {
+                        aggregatedRating: {
+                          rating: "3.6",
+                          ratingCount: "4.2K+",
+                        },
+                        source: "GOOGLE",
+                        sourceIconImageId:
+                          "v1704440323/google_ratings/rating_google_tag",
+                      },
+                      ratingsDisplayPreference:
+                        "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                    },
+                    analytics: {
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
+                    },
+                    cta: {
+                      link: "https://www.swiggy.com/city/vizag/grand-alpha-original-gajuwaka-sheela-nagar-rest66469",
+                      text: "RESTAURANT_MENU",
+                      type: "WEBLINK",
+                    },
+                    widgetId:
+                      "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+                  },
+                  {
+                    info: {
+                      id: "67800",
+                      name: "Bunnys Family Restaurant",
+                      cloudinaryImageId: "dxknlfkvtfmx94f2cwxi",
+                      locality: "Kurmannapalem",
+                      areaName: "Kurmannapalem",
+                      costForTwo: "₹300 for two",
+                      cuisines: ["Biryani", "Andhra", "Chinese"],
+                      avgRating: 4.2,
+                      parentId: "576571",
+                      avgRatingString: "4.2",
+                      totalRatingsString: "140K+",
+                      sla: {
+                        deliveryTime: 27,
+                        lastMileTravel: 6.2,
+                        serviceability: "SERVICEABLE",
+                        slaString: "25-30 mins",
+                        lastMileTravelString: "6.2 km",
+                        iconType: "ICON_TYPE_EMPTY",
+                      },
+                      availability: {
+                        nextCloseTime: "2024-12-10 23:59:00",
+                        opened: true,
+                      },
+                      badges: {},
+                      isOpen: true,
+                      type: "F",
+                      badgesV2: {
+                        entityBadges: {
+                          imageBased: {},
                           textBased: {},
                           textExtendedBadges: {},
                         },
@@ -3784,17 +3766,21 @@ export const mockResList = {
                       restaurantOfferPresentationInfo: {},
                       externalRatings: {
                         aggregatedRating: {
-                          rating: "--",
+                          rating: "3.5",
+                          ratingCount: "1.2K+",
                         },
+                        source: "GOOGLE",
+                        sourceIconImageId:
+                          "v1704440323/google_ratings/rating_google_tag",
                       },
                       ratingsDisplayPreference:
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
-                      link: "https://www.swiggy.com/city/vizag/cheesecakes-by-cakezone-steel-plant-kurmannapalem-rest581643",
+                      link: "https://www.swiggy.com/city/vizag/bunnys-family-restaurant-kurmannapalem-rest67800",
                       text: "RESTAURANT_MENU",
                       type: "WEBLINK",
                     },
@@ -3803,37 +3789,27 @@ export const mockResList = {
                   },
                   {
                     info: {
-                      id: "696122",
-                      name: "Ovenfresh Cakes And Desserts",
-                      cloudinaryImageId:
-                        "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/21/23512b05-042e-42aa-93de-cf3763df46e9_696122.JPG",
-                      locality: "Gajuwaka",
-                      areaName: "Steel Plant",
+                      id: "69586",
+                      name: "Hotel Golden Alfa",
+                      cloudinaryImageId: "y8ikoutwedxqphzdm3cm",
+                      locality: "N A D",
+                      areaName: "Nad Junction",
                       costForTwo: "₹200 for two",
-                      cuisines: [
-                        "Bakery",
-                        "Desserts",
-                        "Beverages",
-                        "Ice Cream",
-                        "Sweets",
-                        "Juices",
-                        "Bengali",
-                        "Pizzas",
-                      ],
-                      avgRating: 4.5,
-                      parentId: "1372",
-                      avgRatingString: "4.5",
-                      totalRatingsString: "323",
+                      cuisines: ["Biryani", "Indian", "Chinese", "Tandoor"],
+                      avgRating: 4.4,
+                      parentId: "12845",
+                      avgRatingString: "4.4",
+                      totalRatingsString: "174K+",
                       sla: {
-                        deliveryTime: 31,
-                        lastMileTravel: 6.4,
+                        deliveryTime: 29,
+                        lastMileTravel: 9.5,
                         serviceability: "SERVICEABLE",
-                        slaString: "30-35 mins",
-                        lastMileTravelString: "6.4 km",
+                        slaString: "25-30 mins",
+                        lastMileTravelString: "9.5 km",
                         iconType: "ICON_TYPE_EMPTY",
                       },
                       availability: {
-                        nextCloseTime: "2024-12-05 22:00:00",
+                        nextCloseTime: "2024-12-10 23:59:00",
                         opened: true,
                       },
                       badges: {},
@@ -3847,8 +3823,9 @@ export const mockResList = {
                         },
                       },
                       aggregatedDiscountInfoV3: {
-                        header: "60% OFF",
-                        subHeader: "UPTO ₹120",
+                        header: "₹100 OFF",
+                        subHeader: "ABOVE ₹299",
+                        discountTag: "FLAT DEAL",
                       },
                       orderabilityCommunication: {
                         title: {},
@@ -3869,17 +3846,21 @@ export const mockResList = {
                       restaurantOfferPresentationInfo: {},
                       externalRatings: {
                         aggregatedRating: {
-                          rating: "--",
+                          rating: "3.5",
+                          ratingCount: "1.0K+",
                         },
+                        source: "GOOGLE",
+                        sourceIconImageId:
+                          "v1704440323/google_ratings/rating_google_tag",
                       },
                       ratingsDisplayPreference:
                         "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
                     },
                     analytics: {
-                      context: "seo-data-57c01651-3a38-4d99-862e-3963d1169d58",
+                      context: "seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84",
                     },
                     cta: {
-                      link: "https://www.swiggy.com/city/vizag/ovenfresh-cakes-and-desserts-gajuwaka-steel-plant-rest696122",
+                      link: "https://www.swiggy.com/city/vizag/hotel-golden-alfa-n-a-d-nad-junction-rest69586",
                       text: "RESTAURANT_MENU",
                       type: "WEBLINK",
                     },
@@ -6975,7 +6956,7 @@ export const mockResList = {
             userAgent:
               "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
             gandalfRequest:
-              '{"sortAttribute":"relevance","isFiltered":false,"queryId":"seo-data-57c01651-3a38-4d99-862e-3963d1169d58","seoParams":{"apiName":"FoodHomePage","brandId":"","seoUrl":"www.swiggy.com","pageType":"FOOD_HOME_PAGE","businessLine":"FOOD"}}',
+              '{"sortAttribute":"relevance","isFiltered":false,"queryId":"seo-data-8eae30f8-eada-475f-b24f-96bdfb09bf84","seoParams":{"apiName":"FoodHomePage","brandId":"","seoUrl":"www.swiggy.com","pageType":"FOOD_HOME_PAGE","businessLine":"FOOD"}}',
             id: "meta_data",
             metaInfo: {
               pageType: "FOOD_HOME_PAGE",
@@ -7006,8 +6987,8 @@ export const mockResList = {
     cacheExpiryTime: 240,
     nextFetch: 1,
   },
-  tid: "aea902e8-7d02-4f1e-aa13-f6be070ee03f",
-  sid: "hma4d922-5c8b-4769-8ffa-857040f13e62",
+  tid: "1caa1aab-8734-4aca-8b0c-d3831393f901",
+  sid: "hpqca595-08de-4347-94e2-a0dae80f60bc",
   deviceId: "15556cee-a843-d204-c47a-ba388b7fa3b1",
-  csrfToken: "h0yC33ef1rCQ-bvO5oLz390VxBIB7aUXf4kIKkE4",
+  csrfToken: "4fo5Hx43uQ9v-it9TgX0Hz-Wo-pT-yTQ6NDJiFik",
 };

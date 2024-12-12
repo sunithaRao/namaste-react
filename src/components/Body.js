@@ -1,4 +1,4 @@
-import RestaurantCard from "./RestaurantCard";
+import RestaurantCard, { nearByRestaurantCard } from "./RestaurantCard";
 import { mockResList } from "../utils/mockData/mockResList";
 import { useEffect, useState } from "react";
 import Shimmer from "./Shimmer";
@@ -23,6 +23,8 @@ const Body = () => {
 
   //console.log("onlineStatus:::", onlineStatus);
 
+  const NearbyRestaurants = nearByRestaurantCard(RestaurantCard);
+
   if (onlineStatus === false) {
     return <h1>Please check. Looks like your internet is down.</h1>;
   }
@@ -34,15 +36,17 @@ const Body = () => {
 
   const fetchData = () => {
     console.log("In fetchData");
-    setTimeout(() => {
-      //console.log("In Body setTimeout");
-      resList =
-        mockResList.data.cards[4]?.card?.card?.gridElements?.infoWithStyle
-          ?.restaurants;
-      //console.log(resList);
-      setListOfRestaurant(resList);
-      setFilteredRestaurants(resList);
-    }, 2000);
+    //setTimeout(() => {
+    //console.log("In Body setTimeout");
+    resList =
+      mockResList.data.cards[4]?.card?.card?.gridElements?.infoWithStyle
+        ?.restaurants;
+    console.log(resList);
+    setListOfRestaurant(resList);
+    setFilteredRestaurants(resList);
+    //});
+    //setListOfRestaurant(resList);
+    //setFilteredRestaurants(resList);
   };
 
   //console.log("In render");
@@ -57,19 +61,25 @@ const Body = () => {
         <div className="p-4">
           <input
             type="text"
-            className="border border-black border-solid rounded"
+            data-testid="searchInput"
+            className="border border-black border-solid rounded px-2"
             value={searchText}
             onChange={(e) => {
               setSearchText(e.target.value);
             }}
           ></input>
           <button
+            data-testid="searchButton"
             className="px-4 py-2 bg-green-100 m-4 border border-black border-solid rounded-lg"
             onClick={() => {
-              console.log(searchText);
+              //console.log(searchText);
+              //console.log(listOfRestaurant);
               const filteredRestaurant = listOfRestaurant.filter((res) =>
-                res.info.name.toLowerCase().includes(searchText.toLowerCase())
+                res.info.name
+                  .toLowerCase()
+                  .includes(searchText.toLowerCase().trim())
               );
+              //console.log(filteredRestaurant);
               setFilteredRestaurants(filteredRestaurant);
             }}
           >
@@ -91,13 +101,17 @@ const Body = () => {
         </div>
       </div>
 
-      <div className="flex flex-wrap flex-row">
+      <div className="flex flex-wrap flex-row transition delay-150 duration-300 ease-in-out">
         {filteredRestaurants.map((restaurant) => (
           <Link
             key={restaurant.info.id}
             to={"/namaste-react/restaurant/" + restaurant.info.id}
           >
-            <RestaurantCard resData={restaurant} />
+            {restaurant.info.sla.lastMileTravel < 3 ? (
+              <NearbyRestaurants resData={restaurant.info} />
+            ) : (
+              <RestaurantCard resData={restaurant.info} />
+            )}
           </Link>
         ))}
       </div>
