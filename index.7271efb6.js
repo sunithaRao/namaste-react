@@ -3033,7 +3033,7 @@ const AppLayout = ()=>{
 };
 _s(AppLayout, "r4ciXLwRIZNmRjYlu4iYjpyheT0=");
 _c2 = AppLayout;
-const appRouter = (0, _reactRouterDom.createHashRouter)([
+const appRouter = (0, _reactRouterDom.createBrowserRouter)([
     {
         path: "/namaste-react",
         basename: "/namaste-react",
@@ -43282,34 +43282,46 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _shimmerDesign = require("./ShimmerDesign");
 const Shimmer = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "flex flex-wrap p-4 m-4",
+        className: "flex flex-wrap p-10 m-10",
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
+                className: "flex flex-wrap p-10 m-10"
+            }, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 6,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
+                className: "flex flex-wrap p-10 m-10"
+            }, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 7,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
+                className: "flex flex-wrap p-10 m-10"
+            }, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 8,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
+                className: "flex flex-wrap p-10 m-10"
+            }, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 9,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
+                className: "flex flex-wrap p-10 m-10"
+            }, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 10,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
+                className: "flex flex-wrap p-10 m-10"
+            }, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 11,
                 columnNumber: 7
@@ -43346,7 +43358,7 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 const ShimmerDesign = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        class: "border border-blue-300 shadow rounded-md p-4 max-w-sm w-full mx-auto",
+        class: "border border-blue-300 shadow rounded-md p-4 max-w-sm w-full mx-auto m-4",
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
             class: "animate-pulse flex space-x-4",
             children: [
