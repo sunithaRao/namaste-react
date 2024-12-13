@@ -3033,7 +3033,7 @@ const AppLayout = ()=>{
 };
 _s(AppLayout, "r4ciXLwRIZNmRjYlu4iYjpyheT0=");
 _c2 = AppLayout;
-const appRouter = (0, _reactRouterDom.createBrowserRouter)([
+const appRouter = (0, _reactRouterDom.createHashRouter)([
     {
         path: "/namaste-react",
         basename: "/namaste-react",
