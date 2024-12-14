@@ -3143,7 +3143,7 @@ $RefreshReg$(_c2, "AppLayout");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-dom/client":"lOjBx","./components/Header":"hsJbF","./components/Body":"8yaV8","./components/Error":"kvula","./components/RestaurantMenu":"8PuJ6","react-router-dom":"9xmpe","./utils/UserContext":"c5vgB","react-redux":"62sf7","./utils/appStore":"6A5Ux","./components/Cart":"h8J3U","6bf9e24f54814dcb":"8efg2","e9c452bf08808b49":"jCTF1","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./components/Contact":"cgAOG"}],"iTorj":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-dom/client":"lOjBx","./components/Header":"hsJbF","./components/Body":"8yaV8","./components/Contact":"cgAOG","./components/Error":"kvula","./components/RestaurantMenu":"8PuJ6","react-router-dom":"9xmpe","./utils/UserContext":"c5vgB","react-redux":"62sf7","./utils/appStore":"6A5Ux","./components/Cart":"h8J3U","6bf9e24f54814dcb":"8efg2","e9c452bf08808b49":"jCTF1","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iTorj":[function(require,module,exports,__globalThis) {
 'use strict';
 module.exports = require("ee51401569654d91");
 
@@ -43282,46 +43282,34 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _shimmerDesign = require("./ShimmerDesign");
 const Shimmer = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "flex flex-wrap p-10 m-10",
+        className: "flex flex-wrap p-4 m-4",
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
-                className: "flex flex-wrap p-10 m-10"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 6,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
-                className: "flex flex-wrap p-10 m-10"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 7,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
-                className: "flex flex-wrap p-10 m-10"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 8,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
-                className: "flex flex-wrap p-10 m-10"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 9,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
-                className: "flex flex-wrap p-10 m-10"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 10,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {
-                className: "flex flex-wrap p-10 m-10"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDesign.ShimmerDesign), {}, void 0, false, {
                 fileName: "src/components/Shimmer.js",
                 lineNumber: 11,
                 columnNumber: 7
@@ -43343,7 +43331,7 @@ $RefreshReg$(_c, "Shimmer");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./ShimmerDesign":"fLWis"}],"fLWis":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","./ShimmerDesign":"fLWis","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"fLWis":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$ee79 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -43358,7 +43346,7 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 const ShimmerDesign = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        class: "border border-blue-300 shadow rounded-md p-4 max-w-sm w-full mx-auto m-4",
+        class: "border border-blue-300 shadow rounded-md p-4 max-w-sm w-full mx-auto",
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
             class: "animate-pulse flex space-x-4",
             children: [
@@ -43425,6 +43413,81 @@ var _c;
 $RefreshReg$(_c, "ShimmerDesign");
 
   $parcel$ReactRefreshHelpers$ee79.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cgAOG":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$ee46 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$ee46.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+const Contact = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "border border-black shadow-2xl p-4 m-4 rounded-2xl",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                className: "font-bold text-3xl p-4 m-4",
+                children: "Contact Us Page"
+            }, void 0, false, {
+                fileName: "src/components/Contact.js",
+                lineNumber: 6,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
+                        type: "text",
+                        className: "border border-black p-2 m-2",
+                        placeholder: "name"
+                    }, void 0, false, {
+                        fileName: "src/components/Contact.js",
+                        lineNumber: 8,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
+                        type: "text",
+                        className: "border border-black p-2 m-2",
+                        placeholder: "message"
+                    }, void 0, false, {
+                        fileName: "src/components/Contact.js",
+                        lineNumber: 13,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                        className: "bg-gray-200 border border-black rounded p-4 m-4",
+                        children: "Submit"
+                    }, void 0, false, {
+                        fileName: "src/components/Contact.js",
+                        lineNumber: 18,
+                        columnNumber: 9
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "src/components/Contact.js",
+                lineNumber: 7,
+                columnNumber: 7
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "src/components/Contact.js",
+        lineNumber: 5,
+        columnNumber: 5
+    }, undefined);
+};
+_c = Contact;
+exports.default = Contact;
+var _c;
+$RefreshReg$(_c, "Contact");
+
+  $parcel$ReactRefreshHelpers$ee46.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
@@ -47919,7 +47982,7 @@ $RefreshReg$(_c, "Cart");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-redux":"62sf7","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./ItemList":"kZjho","../utils/cartSlice":"5RXlr"}],"8efg2":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-redux":"62sf7","./ItemList":"kZjho","../utils/cartSlice":"5RXlr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"8efg2":[function(require,module,exports,__globalThis) {
 module.exports = require("8b80637cd80f01b0")(require("f2afaff6c10c3ea2").getBundleURL('aXMci') + "Grocery.c52c2ad2.js").catch((err)=>{
     delete module.bundle.cache[module.id];
     throw err;
@@ -48028,81 +48091,6 @@ module.exports = require("95dee15994d38784")(require("9d46754ddf4e0417").getBund
     throw err;
 }).then(()=>module.bundle.root('9R1Eu'));
 
-},{"95dee15994d38784":"61B45","9d46754ddf4e0417":"lgJ39","9R1Eu":"9R1Eu"}],"cgAOG":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$ee46 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$ee46.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-const Contact = ()=>{
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "border border-black shadow-2xl p-4 m-4 rounded-2xl",
-        children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                className: "font-bold text-3xl p-4 m-4",
-                children: "Contact Us Page"
-            }, void 0, false, {
-                fileName: "src/components/Contact.js",
-                lineNumber: 6,
-                columnNumber: 7
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
-                        type: "text",
-                        className: "border border-black p-2 m-2",
-                        placeholder: "name"
-                    }, void 0, false, {
-                        fileName: "src/components/Contact.js",
-                        lineNumber: 8,
-                        columnNumber: 9
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
-                        type: "text",
-                        className: "border border-black p-2 m-2",
-                        placeholder: "message"
-                    }, void 0, false, {
-                        fileName: "src/components/Contact.js",
-                        lineNumber: 13,
-                        columnNumber: 9
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                        className: "bg-gray-200 border border-black rounded p-4 m-4",
-                        children: "Submit"
-                    }, void 0, false, {
-                        fileName: "src/components/Contact.js",
-                        lineNumber: 18,
-                        columnNumber: 9
-                    }, undefined)
-                ]
-            }, void 0, true, {
-                fileName: "src/components/Contact.js",
-                lineNumber: 7,
-                columnNumber: 7
-            }, undefined)
-        ]
-    }, void 0, true, {
-        fileName: "src/components/Contact.js",
-        lineNumber: 5,
-        columnNumber: 5
-    }, undefined);
-};
-_c = Contact;
-exports.default = Contact;
-var _c;
-$RefreshReg$(_c, "Contact");
-
-  $parcel$ReactRefreshHelpers$ee46.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["aQL8O","7T53S","2kQhy"], "2kQhy", "parcelRequire94c2")
+},{"95dee15994d38784":"61B45","9d46754ddf4e0417":"lgJ39","9R1Eu":"9R1Eu"}]},["aQL8O","7T53S","2kQhy"], "2kQhy", "parcelRequire94c2")
 
 //# sourceMappingURL=index.7271efb6.js.map
